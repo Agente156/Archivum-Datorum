@@ -66,7 +66,7 @@
       },
       {
         "nom": "Salmorejo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -336,7 +336,7 @@
       },
       {
         "nom": "Yatekomo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
