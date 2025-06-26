@@ -30,7 +30,7 @@
       },
       {
         "nom": "Peres",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruites",
         "quantitat": 1
       },
