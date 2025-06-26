@@ -18,19 +18,19 @@
     "productes": [
       {
         "nom": "Platans",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruites",
         "quantitat": 0
       },
       {
         "nom": "Pomes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruites",
         "quantitat": 2
       },
       {
         "nom": "Peres",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruites",
         "quantitat": 1
       },
