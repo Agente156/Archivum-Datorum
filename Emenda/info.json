@@ -84,9 +84,9 @@
       },
       {
         "nom": "Coca-Cola 0%",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
-        "quantitat": 0
+        "quantitat": 3
       },
       {
         "nom": "Cafè hacendado natural",
