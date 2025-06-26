@@ -24,7 +24,7 @@
       },
       {
         "nom": "Pomes",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruites",
         "quantitat": 2
       },
