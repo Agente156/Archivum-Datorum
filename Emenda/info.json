@@ -390,19 +390,8 @@
       [
         "Altres",
         "rgb(236, 236, 236)"
-      ],
-      [
-        "Fruites",
-        "rgb(207, 34, 34)"
       ]
     ],
-    "productes": [
-      {
-        "nom": "Taronjes",
-        "marcat": false,
-        "categoria": "Fruites",
-        "quantitat": 3
-      }
-    ]
+    "productes": []
   }
 ]
