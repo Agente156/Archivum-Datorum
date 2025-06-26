@@ -182,7 +182,7 @@
         "nom": "Arròs basmati/redondo",
         "marcat": true,
         "categoria": "Pasta i Arròs",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Pasta espiral",
@@ -294,9 +294,9 @@
       },
       {
         "nom": "Xoriço picant",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn i Peix",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Tonyina",
