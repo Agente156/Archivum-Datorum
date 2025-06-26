@@ -7,55 +7,69 @@
         "rgb(236, 236, 236)"
       ],
       [
-        "Fruites",
-        "rgb(61, 141, 65)"
-      ],
-      [
-        "Hika",
-        "rgb(206, 36, 110)"
+        "Begudes",
+        "rgb(42, 120, 209)"
       ]
     ],
     "productes": [
       {
-        "nom": "Platans",
+        "nom": "Aigua bronchales",
         "marcat": false,
-        "categoria": "Fruites",
+        "categoria": "Begudes",
         "quantitat": 0
       },
       {
-        "nom": "Pomes",
-        "marcat": true,
-        "categoria": "Fruites",
-        "quantitat": 2
-      },
-      {
-        "nom": "Peres",
-        "marcat": true,
-        "categoria": "Fruites",
-        "quantitat": 1
-      },
-      {
-        "nom": "Llet",
-        "marcat": true,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Hola",
-        "marcat": true,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Nous",
+        "nom": "Gazpacho",
         "marcat": false,
-        "categoria": "Hika",
+        "categoria": "Begudes",
         "quantitat": 0
       },
       {
-        "nom": "Sjekg",
+        "nom": "Salmorejo",
         "marcat": false,
-        "categoria": "Hika",
+        "categoria": "Begudes",
+        "quantitat": 0
+      },
+      {
+        "nom": "Vichy",
+        "marcat": false,
+        "categoria": "Begudes",
+        "quantitat": 0
+      },
+      {
+        "nom": "Coca-Cola",
+        "marcat": false,
+        "categoria": "Begudes",
+        "quantitat": 0
+      },
+      {
+        "nom": "Coca-Cola 0%",
+        "marcat": false,
+        "categoria": "Begudes",
+        "quantitat": 0
+      },
+      {
+        "nom": "Cafè hacendado natural",
+        "marcat": false,
+        "categoria": "Begudes",
+        "quantitat": 0
+      },
+      {
+        "nom": "Cafè descafeïnat",
+        "marcat": false,
+        "categoria": "Begudes",
+        "quantitat": 0
+      },
+      {
+        "nom": "Suc llimona",
+        "marcat": false,
+        "categoria": "Begudes",
+        "quantitat": 0
+      },
+      {
+        "nom": "Infusió farigola",
+        "marcat": false,
+        "categoria": "Begudes",
         "quantitat": 0
       }
     ]
