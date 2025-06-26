@@ -16,11 +16,39 @@
       ],
       [
         "Pasta i Arròs",
-        "rgb(239, 108, 0)"
+        "rgb(255, 177, 61)"
       ],
       [
         "Làctics",
         "rgb(109, 186, 248)"
+      ],
+      [
+        "Carn i Peix",
+        "rgb(207, 34, 34)"
+      ],
+      [
+        "Hortalisses",
+        "rgb(61, 141, 65)"
+      ],
+      [
+        "Fruits Secs",
+        "rgb(239, 108, 0)"
+      ],
+      [
+        "Conserves i Salses",
+        "rgb(121, 134, 203)"
+      ],
+      [
+        "Xocolata i Snacks",
+        "rgb(166, 194, 42)"
+      ],
+      [
+        "Higiene",
+        "rgb(206, 36, 110)"
+      ],
+      [
+        "Neteja",
+        "rgb(212, 94, 216)"
       ]
     ],
     "productes": [
@@ -178,6 +206,180 @@
         "nom": "Fideus",
         "marcat": false,
         "categoria": "Pasta i Arròs",
+        "quantitat": 0
+      },
+      {
+        "nom": "Llet semi",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Llet sencera",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Llet arròs i avellanes",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Iogurts naturals danone",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Iogurts grecs naturals 0,0%",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Formatge",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Formatge pizza",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Formatge bocata calent",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Formatge burrata",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Formatge grana padano en pols",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Mantega",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Nata ligera cocinar",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Pernil salat",
+        "marcat": false,
+        "categoria": "Carn i Peix",
+        "quantitat": 0
+      },
+      {
+        "nom": "Pernil dolç",
+        "marcat": false,
+        "categoria": "Carn i Peix",
+        "quantitat": 0
+      },
+      {
+        "nom": "Xoriço picant",
+        "marcat": false,
+        "categoria": "Carn i Peix",
+        "quantitat": 0
+      },
+      {
+        "nom": "Tonyina",
+        "marcat": false,
+        "categoria": "Carn i Peix",
+        "quantitat": 0
+      },
+      {
+        "nom": "Salmó al natural",
+        "marcat": false,
+        "categoria": "Carn i Peix",
+        "quantitat": 0
+      },
+      {
+        "nom": "Iceberg",
+        "marcat": false,
+        "categoria": "Hortalisses",
+        "quantitat": 0
+      },
+      {
+        "nom": "Enciam romana",
+        "marcat": false,
+        "categoria": "Hortalisses",
+        "quantitat": 0
+      },
+      {
+        "nom": "Cogombrets",
+        "marcat": false,
+        "categoria": "Hortalisses",
+        "quantitat": 0
+      },
+      {
+        "nom": "Pèsols",
+        "marcat": false,
+        "categoria": "Hortalisses",
+        "quantitat": 0
+      },
+      {
+        "nom": "Yatekomo",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
+      },
+      {
+        "nom": "Ceba fregida",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
+      },
+      {
+        "nom": "Allioli",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
+      },
+      {
+        "nom": "Ametlla ratllada",
+        "marcat": false,
+        "categoria": "Fruits Secs",
+        "quantitat": 0
+      },
+      {
+        "nom": "Gilette",
+        "marcat": false,
+        "categoria": "Higiene",
+        "quantitat": 0
+      },
+      {
+        "nom": "Fairy",
+        "marcat": false,
+        "categoria": "Neteja",
+        "quantitat": 0
+      },
+      {
+        "nom": "Xocolata amb llet",
+        "marcat": false,
+        "categoria": "Xocolata i Snacks",
+        "quantitat": 0
+      },
+      {
+        "nom": "Ketchup",
+        "marcat": false,
+        "categoria": "Conserves i Salses",
         "quantitat": 0
       }
     ]
