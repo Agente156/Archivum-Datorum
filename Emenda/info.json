@@ -336,7 +336,7 @@
       },
       {
         "nom": "Yatekomo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -347,7 +347,7 @@
         "quantitat": 0
       },
       {
-        "nom": "Allioli",
+        "nom": "All i oli",
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
@@ -390,19 +390,8 @@
       [
         "Altres",
         "rgb(236, 236, 236)"
-      ],
-      [
-        "Fruites",
-        "rgb(207, 34, 34)"
       ]
     ],
-    "productes": [
-      {
-        "nom": "Taronjes",
-        "marcat": false,
-        "categoria": "Fruites",
-        "quantitat": 3
-      }
-    ]
+    "productes": []
   }
 ]
