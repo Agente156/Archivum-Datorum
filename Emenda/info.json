@@ -72,7 +72,7 @@
       },
       {
         "nom": "Vichy",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
