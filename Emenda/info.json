@@ -84,7 +84,7 @@
       },
       {
         "nom": "Coca-Cola 0%",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 2
       },
