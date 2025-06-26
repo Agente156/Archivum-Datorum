@@ -18,7 +18,7 @@
     "productes": [
       {
         "nom": "Platans",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruites",
         "quantitat": 0
       },
@@ -30,7 +30,7 @@
       },
       {
         "nom": "Peres",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruites",
         "quantitat": 1
       },
@@ -42,7 +42,7 @@
       },
       {
         "nom": "Hola",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
