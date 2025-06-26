@@ -54,13 +54,13 @@
     "productes": [
       {
         "nom": "Aigua bronchales",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Gazpacho",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
