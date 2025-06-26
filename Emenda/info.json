@@ -54,37 +54,37 @@
     "productes": [
       {
         "nom": "Aigua bronchales",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Gazpacho",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Salmorejo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Vichy",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Coca-Cola",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Coca-Cola 0%",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -156,7 +156,7 @@
       },
       {
         "nom": "Farina espelta",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
@@ -204,7 +204,7 @@
       },
       {
         "nom": "Fideus",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
@@ -222,7 +222,7 @@
       },
       {
         "nom": "Llet arròs i avellanes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -342,13 +342,13 @@
       },
       {
         "nom": "Ceba fregida",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "All i oli",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
