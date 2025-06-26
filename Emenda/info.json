@@ -1,1 +1,84 @@
-[{"nomLlista":"Mercadona","categories":[["Altres","rgb(236, 236, 236)"],["Fruites","rgb(61, 141, 65)"],["Hika","rgb(206, 36, 110)"]],"productes":[{"nom":"Platans","marcat":false,"categoria":"Fruites","quantitat":0},{"nom":"Pomes","marcat":true,"categoria":"Fruites","quantitat":2},{"nom":"Peres","marcat":false,"categoria":"Fruites","quantitat":1},{"nom":"Llet","marcat":true,"categoria":"Altres","quantitat":0},{"nom":"Hola","marcat":true,"categoria":"Altres","quantitat":0},{"nom":"Nous","marcat":false,"categoria":"Hika","quantitat":0},{"nom":"Sjekg","marcat":false,"categoria":"Hika","quantitat":0}]},{"nomLlista":"Ametller","categories":[["Altres","rgb(236, 236, 236)"],["Fruites","rgb(207, 34, 34)"]],"productes":[{"nom":"Taronjes","marcat":false,"categoria":"Fruites","quantitat":3}]}]
+[
+  {
+    "nomLlista": "Mercadona",
+    "categories": [
+      [
+        "Altres",
+        "rgb(236, 236, 236)"
+      ],
+      [
+        "Fruites",
+        "rgb(61, 141, 65)"
+      ],
+      [
+        "Hika",
+        "rgb(206, 36, 110)"
+      ]
+    ],
+    "productes": [
+      {
+        "nom": "Platans",
+        "marcat": false,
+        "categoria": "Fruites",
+        "quantitat": 0
+      },
+      {
+        "nom": "Pomes",
+        "marcat": true,
+        "categoria": "Fruites",
+        "quantitat": 2
+      },
+      {
+        "nom": "Peres",
+        "marcat": false,
+        "categoria": "Fruites",
+        "quantitat": 1
+      },
+      {
+        "nom": "Llet",
+        "marcat": true,
+        "categoria": "Altres",
+        "quantitat": 0
+      },
+      {
+        "nom": "Hola",
+        "marcat": true,
+        "categoria": "Altres",
+        "quantitat": 0
+      },
+      {
+        "nom": "Nous",
+        "marcat": false,
+        "categoria": "Hika",
+        "quantitat": 0
+      },
+      {
+        "nom": "Sjekg",
+        "marcat": false,
+        "categoria": "Hika",
+        "quantitat": 0
+      }
+    ]
+  },
+  {
+    "nomLlista": "Ametller",
+    "categories": [
+      [
+        "Altres",
+        "rgb(236, 236, 236)"
+      ],
+      [
+        "Fruites",
+        "rgb(207, 34, 34)"
+      ]
+    ],
+    "productes": [
+      {
+        "nom": "Taronjes",
+        "marcat": false,
+        "categoria": "Fruites",
+        "quantitat": 3
+      }
+    ]
+  }
+]
