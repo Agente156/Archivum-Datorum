@@ -381,6 +381,12 @@
         "marcat": false,
         "categoria": "Conserves i Salses",
         "quantitat": 0
+      },
+      {
+        "nom": "a",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
