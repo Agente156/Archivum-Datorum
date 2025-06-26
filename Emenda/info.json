@@ -102,7 +102,7 @@
       },
       {
         "nom": "Suc llimona",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
