@@ -9,6 +9,18 @@
       [
         "Begudes",
         "rgb(42, 120, 209)"
+      ],
+      [
+        "Bàsics",
+        "rgb(253, 216, 53)"
+      ],
+      [
+        "Pasta i Arròs",
+        "rgb(239, 108, 0)"
+      ],
+      [
+        "Làctics",
+        "rgb(109, 186, 248)"
       ]
     ],
     "productes": [
@@ -70,6 +82,102 @@
         "nom": "Infusió farigola",
         "marcat": false,
         "categoria": "Begudes",
+        "quantitat": 0
+      },
+      {
+        "nom": "Sal",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Sucre",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Ou",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Clares d'ou",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Pebre",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Llevat Royal",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Farina",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Farina espelta",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Farina ametlla",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Farina madalenes",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Arròs",
+        "marcat": false,
+        "categoria": "Pasta i Arròs",
+        "quantitat": 0
+      },
+      {
+        "nom": "Arròs basmati/redondo",
+        "marcat": false,
+        "categoria": "Pasta i Arròs",
+        "quantitat": 0
+      },
+      {
+        "nom": "Pasta espiral",
+        "marcat": false,
+        "categoria": "Pasta i Arròs",
+        "quantitat": 0
+      },
+      {
+        "nom": "Pasta sopa",
+        "marcat": false,
+        "categoria": "Pasta i Arròs",
+        "quantitat": 0
+      },
+      {
+        "nom": "Espaguetis",
+        "marcat": false,
+        "categoria": "Pasta i Arròs",
+        "quantitat": 0
+      },
+      {
+        "nom": "Fideus",
+        "marcat": false,
+        "categoria": "Pasta i Arròs",
         "quantitat": 0
       }
     ]
