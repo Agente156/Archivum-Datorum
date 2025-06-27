@@ -1314,6 +1314,12 @@
         "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
+      },
+      {
+        "nom": "Bosses brossa",
+        "marcat": false,
+        "categoria": "Higiene",
+        "quantitat": 0
       }
     ]
   }
