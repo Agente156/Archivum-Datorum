@@ -750,6 +750,12 @@
         "marcat": false,
         "categoria": "Tomàquets",
         "quantitat": 0
+      },
+      {
+        "nom": "Tomàquet rosa",
+        "marcat": false,
+        "categoria": "Tomàquets",
+        "quantitat": 0
       }
     ]
   }
