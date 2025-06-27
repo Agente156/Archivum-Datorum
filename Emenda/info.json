@@ -1302,6 +1302,12 @@
         "marcat": true,
         "categoria": "Electrònica",
         "quantitat": 0
+      },
+      {
+        "nom": "Neceser",
+        "marcat": false,
+        "categoria": "Higiene",
+        "quantitat": 0
       }
     ]
   }
