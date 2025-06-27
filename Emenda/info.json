@@ -1320,6 +1320,12 @@
         "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
+      },
+      {
+        "nom": "Pijama",
+        "marcat": false,
+        "categoria": "Roba",
+        "quantitat": 0
       }
     ]
   }
