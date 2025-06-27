@@ -639,6 +639,12 @@
         "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
+      },
+      {
+        "nom": "Pa torrat",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
       }
     ]
   },
