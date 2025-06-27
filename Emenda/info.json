@@ -405,6 +405,12 @@
         "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
+      },
+      {
+        "nom": "Interdental",
+        "marcat": false,
+        "categoria": "Higiene",
+        "quantitat": 0
       }
     ]
   },
