@@ -828,6 +828,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Xampinyos",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   }
