@@ -1278,6 +1278,12 @@
         "marcat": true,
         "categoria": "Electrònica",
         "quantitat": 0
+      },
+      {
+        "nom": "Ordinador",
+        "marcat": false,
+        "categoria": "Electrònica",
+        "quantitat": 0
       }
     ]
   }
