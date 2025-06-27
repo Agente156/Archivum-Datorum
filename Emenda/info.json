@@ -693,6 +693,12 @@
         "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
+      },
+      {
+        "nom": "Colacao",
+        "marcat": false,
+        "categoria": "Xocolata",
+        "quantitat": 0
       }
     ]
   },
