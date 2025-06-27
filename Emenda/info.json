@@ -39,7 +39,7 @@
         "rgb(43, 231, 222)"
       ],
       [
-        "Snacks",
+        "Xocolata",
         "rgb(166, 194, 42)"
       ],
       [
@@ -367,7 +367,7 @@
       {
         "nom": "Xocolata amb llet",
         "marcat": false,
-        "categoria": "Snacks",
+        "categoria": "Xocolata",
         "quantitat": 0
       },
       {
