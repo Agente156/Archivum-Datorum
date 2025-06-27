@@ -834,6 +834,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Peres",
+        "marcat": false,
+        "categoria": "Fruita",
+        "quantitat": 0
       }
     ]
   }
