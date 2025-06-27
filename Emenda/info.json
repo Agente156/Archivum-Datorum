@@ -738,6 +738,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Tomàquet mediterràni",
+        "marcat": false,
+        "categoria": "Tomàquets",
+        "quantitat": 0
       }
     ]
   }
