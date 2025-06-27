@@ -1296,6 +1296,12 @@
         "marcat": true,
         "categoria": "Electrònica",
         "quantitat": 0
+      },
+      {
+        "nom": "Auriculars",
+        "marcat": false,
+        "categoria": "Electrònica",
+        "quantitat": 0
       }
     ]
   }
