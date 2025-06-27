@@ -78,13 +78,13 @@
       },
       {
         "nom": "Coca-Cola",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Coca-Cola 0%",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 2
       },
@@ -114,7 +114,7 @@
       },
       {
         "nom": "Sal",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
