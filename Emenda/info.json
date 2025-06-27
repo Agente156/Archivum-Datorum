@@ -1053,6 +1053,12 @@
         "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
+      },
+      {
+        "nom": "Pernil salat",
+        "marcat": false,
+        "categoria": "Carn",
+        "quantitat": 0
       }
     ]
   }
