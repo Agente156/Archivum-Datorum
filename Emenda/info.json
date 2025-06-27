@@ -912,6 +912,12 @@
         "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
+      },
+      {
+        "nom": "Cogombre",
+        "marcat": false,
+        "categoria": "Hortalisses",
+        "quantitat": 0
       }
     ]
   }
