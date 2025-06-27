@@ -1242,6 +1242,12 @@
         "marcat": true,
         "categoria": "Roba",
         "quantitat": 0
+      },
+      {
+        "nom": "Roba interior",
+        "marcat": false,
+        "categoria": "Roba",
+        "quantitat": 0
       }
     ]
   }
