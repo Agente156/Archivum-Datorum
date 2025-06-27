@@ -507,6 +507,12 @@
         "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
+      },
+      {
+        "nom": "Borrador màgic",
+        "marcat": false,
+        "categoria": "Neteja",
+        "quantitat": 0
       }
     ]
   },
