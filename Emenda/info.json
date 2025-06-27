@@ -1284,6 +1284,12 @@
         "marcat": true,
         "categoria": "Electrònica",
         "quantitat": 0
+      },
+      {
+        "nom": "Llanterna",
+        "marcat": false,
+        "categoria": "Electrònica",
+        "quantitat": 0
       }
     ]
   }
