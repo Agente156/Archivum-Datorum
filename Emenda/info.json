@@ -1308,6 +1308,12 @@
         "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
+      },
+      {
+        "nom": "Pastilles",
+        "marcat": false,
+        "categoria": "Higiene",
+        "quantitat": 0
       }
     ]
   }
