@@ -1041,6 +1041,12 @@
         "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
+      },
+      {
+        "nom": "Llom",
+        "marcat": false,
+        "categoria": "Carn",
+        "quantitat": 0
       }
     ]
   }
