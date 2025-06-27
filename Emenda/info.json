@@ -808,6 +808,12 @@
         "marcat": false,
         "categoria": "Pomes",
         "quantitat": 0
+      },
+      {
+        "nom": "Pomes gala",
+        "marcat": false,
+        "categoria": "Pomes",
+        "quantitat": 0
       }
     ]
   }
