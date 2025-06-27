@@ -1248,6 +1248,12 @@
         "marcat": true,
         "categoria": "Roba",
         "quantitat": 0
+      },
+      {
+        "nom": "Gorra",
+        "marcat": false,
+        "categoria": "Roba",
+        "quantitat": 0
       }
     ]
   }
