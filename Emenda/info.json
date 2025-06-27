@@ -675,6 +675,12 @@
         "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
+      },
+      {
+        "nom": "Cacau pur",
+        "marcat": false,
+        "categoria": "Xocolata",
+        "quantitat": 0
       }
     ]
   },
