@@ -1305,7 +1305,7 @@
       },
       {
         "nom": "Neceser",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
       }
