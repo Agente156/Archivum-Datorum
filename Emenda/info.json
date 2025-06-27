@@ -894,6 +894,12 @@
         "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
+      },
+      {
+        "nom": "Patates monalisa",
+        "marcat": false,
+        "categoria": "Hortalisses",
+        "quantitat": 0
       }
     ]
   }
