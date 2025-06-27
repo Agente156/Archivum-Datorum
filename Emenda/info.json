@@ -936,6 +936,12 @@
         "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
+      },
+      {
+        "nom": "Bròquil",
+        "marcat": false,
+        "categoria": "Hortalisses",
+        "quantitat": 0
       }
     ]
   }
