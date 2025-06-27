@@ -663,6 +663,12 @@
         "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
+      },
+      {
+        "nom": "Neteja ulleres",
+        "marcat": false,
+        "categoria": "Neteja",
+        "quantitat": 0
       }
     ]
   },
