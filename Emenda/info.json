@@ -762,6 +762,12 @@
         "marcat": false,
         "categoria": "Tomàquets",
         "quantitat": 0
+      },
+      {
+        "nom": "Tomacó",
+        "marcat": false,
+        "categoria": "Tomàquets",
+        "quantitat": 0
       }
     ]
   }
