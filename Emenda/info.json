@@ -1029,6 +1029,12 @@
         "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
+      },
+      {
+        "nom": "Pernil dolç",
+        "marcat": false,
+        "categoria": "Carn",
+        "quantitat": 0
       }
     ]
   }
