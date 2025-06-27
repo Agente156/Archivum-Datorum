@@ -561,6 +561,12 @@
         "marcat": false,
         "categoria": "Conserves i Salses",
         "quantitat": 0
+      },
+      {
+        "nom": "Maionesa",
+        "marcat": false,
+        "categoria": "Conserves i Salses",
+        "quantitat": 0
       }
     ]
   },
