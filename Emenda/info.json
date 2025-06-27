@@ -1221,13 +1221,13 @@
       },
       {
         "nom": "Carregadors",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Electrònica",
         "quantitat": 0
       },
       {
         "nom": "Allargo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Electrònica",
         "quantitat": 0
       },
@@ -1245,7 +1245,7 @@
       },
       {
         "nom": "Roba interior",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Roba",
         "quantitat": 0
       }
