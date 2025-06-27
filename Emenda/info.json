@@ -1023,6 +1023,12 @@
         "marcat": true,
         "categoria": "Carn",
         "quantitat": 0
+      },
+      {
+        "nom": "Bistec",
+        "marcat": false,
+        "categoria": "Carn",
+        "quantitat": 0
       }
     ]
   }
