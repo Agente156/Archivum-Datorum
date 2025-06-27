@@ -1293,13 +1293,13 @@
       },
       {
         "nom": "Piles",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Electrònica",
         "quantitat": 0
       },
       {
         "nom": "Auriculars",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Electrònica",
         "quantitat": 0
       },
