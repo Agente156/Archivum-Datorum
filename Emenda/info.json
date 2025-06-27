@@ -744,6 +744,12 @@
         "marcat": false,
         "categoria": "Tomàquets",
         "quantitat": 0
+      },
+      {
+        "nom": "Tomàquet ibèric",
+        "marcat": false,
+        "categoria": "Tomàquets",
+        "quantitat": 0
       }
     ]
   }
