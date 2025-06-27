@@ -1013,13 +1013,6 @@
         "rgb(236, 236, 236)"
       ]
     ],
-    "productes": [
-      {
-        "nom": "Carn",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      }
-    ]
+    "productes": []
   }
 ]
