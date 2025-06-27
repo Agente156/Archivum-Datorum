@@ -603,6 +603,12 @@
         "marcat": false,
         "categoria": "Xocolata",
         "quantitat": 0
+      },
+      {
+        "nom": "Gotes xocolata",
+        "marcat": false,
+        "categoria": "Xocolata",
+        "quantitat": 0
       }
     ]
   },
