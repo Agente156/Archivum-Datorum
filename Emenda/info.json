@@ -417,6 +417,12 @@
         "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
+      },
+      {
+        "nom": "Hidratant cabell",
+        "marcat": false,
+        "categoria": "Higiene",
+        "quantitat": 0
       }
     ]
   },
