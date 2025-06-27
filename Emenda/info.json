@@ -1004,5 +1004,15 @@
         "quantitat": 0
       }
     ]
+  },
+  {
+    "nomLlista": "Bonpreu",
+    "categories": [
+      [
+        "Altres",
+        "rgb(236, 236, 236)"
+      ]
+    ],
+    "productes": []
   }
 ]
