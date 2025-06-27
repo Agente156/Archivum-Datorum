@@ -591,6 +591,12 @@
         "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
+      },
+      {
+        "nom": "Nutella/Nocilla",
+        "marcat": false,
+        "categoria": "Xocolata",
+        "quantitat": 0
       }
     ]
   },
