@@ -459,6 +459,12 @@
         "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
+      },
+      {
+        "nom": "Fregall",
+        "marcat": false,
+        "categoria": "Neteja",
+        "quantitat": 0
       }
     ]
   },
