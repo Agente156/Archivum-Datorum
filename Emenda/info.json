@@ -645,6 +645,12 @@
         "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
+      },
+      {
+        "nom": "Pa ratllat",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
       }
     ]
   },
