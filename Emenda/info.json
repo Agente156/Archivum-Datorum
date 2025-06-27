@@ -774,6 +774,12 @@
         "marcat": false,
         "categoria": "Tomàquets",
         "quantitat": 0
+      },
+      {
+        "nom": "Tomàquet monterosa",
+        "marcat": false,
+        "categoria": "Tomàquets",
+        "quantitat": 0
       }
     ]
   }
