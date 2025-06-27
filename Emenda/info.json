@@ -876,6 +876,12 @@
         "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
+      },
+      {
+        "nom": "Alvocat",
+        "marcat": false,
+        "categoria": "Fruita",
+        "quantitat": 0
       }
     ]
   }
