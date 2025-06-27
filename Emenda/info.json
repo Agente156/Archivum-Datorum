@@ -531,6 +531,12 @@
         "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
+      },
+      {
+        "nom": "Festucs",
+        "marcat": false,
+        "categoria": "Fruits Secs",
+        "quantitat": 0
       }
     ]
   },
