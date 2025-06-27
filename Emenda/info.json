@@ -627,6 +627,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Avena",
+        "marcat": false,
+        "categoria": "Fruits Secs",
+        "quantitat": 0
       }
     ]
   },
