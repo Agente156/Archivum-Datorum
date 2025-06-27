@@ -114,7 +114,7 @@
       },
       {
         "nom": "Sal",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
@@ -342,13 +342,13 @@
       },
       {
         "nom": "Ceba fregida",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "All i oli",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
