@@ -35,7 +35,7 @@
         "rgb(239, 108, 0)"
       ],
       [
-        "Conserves i Salses",
+        "Salses",
         "rgb(43, 231, 222)"
       ],
       [
@@ -373,7 +373,7 @@
       {
         "nom": "Ketchup",
         "marcat": false,
-        "categoria": "Conserves i Salses",
+        "categoria": "Salses",
         "quantitat": 0
       },
       {
@@ -553,37 +553,37 @@
       {
         "nom": "Salsa mexicana",
         "marcat": false,
-        "categoria": "Conserves i Salses",
+        "categoria": "Salses",
         "quantitat": 0
       },
       {
         "nom": "All i oli",
         "marcat": false,
-        "categoria": "Conserves i Salses",
+        "categoria": "Salses",
         "quantitat": 0
       },
       {
         "nom": "Maionesa",
         "marcat": false,
-        "categoria": "Conserves i Salses",
+        "categoria": "Salses",
         "quantitat": 0
       },
       {
         "nom": "Tomàquet fregit",
         "marcat": false,
-        "categoria": "Conserves i Salses",
+        "categoria": "Salses",
         "quantitat": 0
       },
       {
         "nom": "Tomàquet triturat llauna",
         "marcat": false,
-        "categoria": "Conserves i Salses",
+        "categoria": "Salses",
         "quantitat": 0
       },
       {
         "nom": "Caldo pollastre",
         "marcat": false,
-        "categoria": "Conserves i Salses",
+        "categoria": "Salses",
         "quantitat": 0
       }
     ]
