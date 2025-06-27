@@ -477,6 +477,12 @@
         "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
+      },
+      {
+        "nom": "3 brujas neteja",
+        "marcat": false,
+        "categoria": "Neteja",
+        "quantitat": 0
       }
     ]
   },
