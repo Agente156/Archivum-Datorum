@@ -705,6 +705,12 @@
         "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
+      },
+      {
+        "nom": "Vinagre de mòdena",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
       }
     ]
   },
