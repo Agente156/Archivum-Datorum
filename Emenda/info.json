@@ -699,6 +699,12 @@
         "marcat": false,
         "categoria": "Xocolata",
         "quantitat": 0
+      },
+      {
+        "nom": "Gel olive",
+        "marcat": false,
+        "categoria": "Higiene",
+        "quantitat": 0
       }
     ]
   },
