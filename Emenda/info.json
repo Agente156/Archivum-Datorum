@@ -846,6 +846,12 @@
         "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
+      },
+      {
+        "nom": "Kiwis",
+        "marcat": false,
+        "categoria": "Fruita",
+        "quantitat": 0
       }
     ]
   }
