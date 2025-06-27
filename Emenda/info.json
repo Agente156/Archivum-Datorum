@@ -852,6 +852,12 @@
         "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
+      },
+      {
+        "nom": "Síndria",
+        "marcat": false,
+        "categoria": "Fruita",
+        "quantitat": 0
       }
     ]
   }
