@@ -1017,6 +1017,13 @@
         "rgb(207, 34, 34)"
       ]
     ],
-    "productes": []
+    "productes": [
+      {
+        "nom": "Xurrasco",
+        "marcat": false,
+        "categoria": "Carn",
+        "quantitat": 0
+      }
+    ]
   }
 ]
