@@ -657,6 +657,12 @@
         "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
+      },
+      {
+        "nom": "Blat de moro llauna",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
       }
     ]
   },
