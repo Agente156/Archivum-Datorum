@@ -1272,6 +1272,12 @@
         "marcat": true,
         "categoria": "Roba",
         "quantitat": 0
+      },
+      {
+        "nom": "Bateria portàtil",
+        "marcat": false,
+        "categoria": "Electrònica",
+        "quantitat": 0
       }
     ]
   }
