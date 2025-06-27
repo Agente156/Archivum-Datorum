@@ -381,6 +381,12 @@
         "marcat": false,
         "categoria": "Conserves i Salses",
         "quantitat": 0
+      },
+      {
+        "nom": "Paper vàter",
+        "marcat": false,
+        "categoria": "Higiene",
+        "quantitat": 0
       }
     ]
   },
