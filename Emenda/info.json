@@ -1230,6 +1230,12 @@
         "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
+      },
+      {
+        "nom": "Samarretes",
+        "marcat": false,
+        "categoria": "Roba",
+        "quantitat": 0
       }
     ]
   }
