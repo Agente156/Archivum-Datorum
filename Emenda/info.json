@@ -1047,6 +1047,12 @@
         "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
+      },
+      {
+        "nom": "Fuet can duran",
+        "marcat": false,
+        "categoria": "Carn",
+        "quantitat": 0
       }
     ]
   }
