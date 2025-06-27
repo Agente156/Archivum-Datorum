@@ -1257,13 +1257,13 @@
       },
       {
         "nom": "Xubasquero",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Roba",
         "quantitat": 0
       },
       {
         "nom": "Polar",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Roba",
         "quantitat": 0
       }
