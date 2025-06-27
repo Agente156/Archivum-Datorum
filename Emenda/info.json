@@ -681,6 +681,12 @@
         "marcat": false,
         "categoria": "Xocolata",
         "quantitat": 0
+      },
+      {
+        "nom": "Sabó roba marsella",
+        "marcat": false,
+        "categoria": "Neteja",
+        "quantitat": 0
       }
     ]
   },
