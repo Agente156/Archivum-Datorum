@@ -802,6 +802,12 @@
         "marcat": false,
         "categoria": "Pomes",
         "quantitat": 0
+      },
+      {
+        "nom": "Pomes granny smith",
+        "marcat": false,
+        "categoria": "Pomes",
+        "quantitat": 0
       }
     ]
   }
