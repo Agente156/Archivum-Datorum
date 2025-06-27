@@ -1224,6 +1224,12 @@
         "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
+      },
+      {
+        "nom": "Allargo",
+        "marcat": false,
+        "categoria": "Electrònica",
+        "quantitat": 0
       }
     ]
   }
