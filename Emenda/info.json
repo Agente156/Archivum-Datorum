@@ -669,6 +669,12 @@
         "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
+      },
+      {
+        "nom": "All congelat",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
       }
     ]
   },
