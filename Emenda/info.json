@@ -1260,6 +1260,12 @@
         "marcat": false,
         "categoria": "Roba",
         "quantitat": 0
+      },
+      {
+        "nom": "Polar",
+        "marcat": false,
+        "categoria": "Roba",
+        "quantitat": 0
       }
     ]
   }
