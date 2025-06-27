@@ -609,6 +609,12 @@
         "marcat": false,
         "categoria": "Xocolata",
         "quantitat": 0
+      },
+      {
+        "nom": "Tortitas mexicanes",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
