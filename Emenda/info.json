@@ -519,6 +519,12 @@
         "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
+      },
+      {
+        "nom": "Avellanes torrades",
+        "marcat": false,
+        "categoria": "Fruits Secs",
+        "quantitat": 0
       }
     ]
   },
