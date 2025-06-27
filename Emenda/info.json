@@ -978,6 +978,12 @@
         "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
+      },
+      {
+        "nom": "Mitja col",
+        "marcat": false,
+        "categoria": "Hortalisses",
+        "quantitat": 0
       }
     ]
   }
