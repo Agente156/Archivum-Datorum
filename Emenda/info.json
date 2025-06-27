@@ -1269,7 +1269,7 @@
       },
       {
         "nom": "Pantalons esport",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Roba",
         "quantitat": 0
       }
