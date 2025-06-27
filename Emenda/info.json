@@ -513,6 +513,12 @@
         "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
+      },
+      {
+        "nom": "Ametlles crues",
+        "marcat": false,
+        "categoria": "Fruits Secs",
+        "quantitat": 0
       }
     ]
   },
