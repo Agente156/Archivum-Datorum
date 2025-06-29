@@ -1355,6 +1355,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Sal",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   }
