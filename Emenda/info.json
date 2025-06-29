@@ -1328,5 +1328,15 @@
         "quantitat": 0
       }
     ]
+  },
+  {
+    "nomLlista": "Pals",
+    "categories": [
+      [
+        "Altres",
+        "rgb(236, 236, 236)"
+      ]
+    ],
+    "productes": []
   }
 ]
