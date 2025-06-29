@@ -1403,6 +1403,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Pernil",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   }
