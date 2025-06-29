@@ -1337,6 +1337,13 @@
         "rgb(236, 236, 236)"
       ]
     ],
-    "productes": []
+    "productes": [
+      {
+        "nom": "Aigua",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
+      }
+    ]
   }
 ]
