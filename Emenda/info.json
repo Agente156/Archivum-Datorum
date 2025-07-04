@@ -755,7 +755,7 @@
         "nom": "Tomàquet mediterràni",
         "marcat": true,
         "categoria": "Tomàquets",
-        "quantitat": 0
+        "quantitat": 2
       },
       {
         "nom": "Tomàquet ibèric",
@@ -797,7 +797,7 @@
         "nom": "Pomes fuji",
         "marcat": false,
         "categoria": "Pomes",
-        "quantitat": 0
+        "quantitat": 4
       },
       {
         "nom": "Pomes golden",
@@ -830,7 +830,7 @@
         "quantitat": 0
       },
       {
-        "nom": "Xampinyos",
+        "nom": "Xampinyons",
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
