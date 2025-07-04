@@ -797,7 +797,7 @@
         "nom": "Pomes fuji",
         "marcat": false,
         "categoria": "Pomes",
-        "quantitat": 4
+        "quantitat": 0
       },
       {
         "nom": "Pomes golden",
@@ -927,9 +927,9 @@
       },
       {
         "nom": "Pastanaga",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
-        "quantitat": 0
+        "quantitat": 3
       },
       {
         "nom": "Carbassó",
