@@ -845,25 +845,25 @@
         "nom": "Plàtans",
         "marcat": false,
         "categoria": "Fruita",
-        "quantitat": 0
+        "quantitat": 3
       },
       {
         "nom": "Kiwis",
         "marcat": true,
         "categoria": "Fruita",
-        "quantitat": 0
+        "quantitat": 4
       },
       {
         "nom": "Síndria",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Prèssec",
         "marcat": false,
         "categoria": "Fruita",
-        "quantitat": 0
+        "quantitat": 2
       },
       {
         "nom": "Pinya",
