@@ -843,7 +843,7 @@
       },
       {
         "nom": "Plàtans",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita",
         "quantitat": 3
       },
@@ -861,7 +861,7 @@
       },
       {
         "nom": "Prèssec",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita",
         "quantitat": 2
       },
