@@ -554,7 +554,7 @@
         "nom": "Salsa mexicana",
         "marcat": true,
         "categoria": "Salses",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "All i oli",
@@ -684,9 +684,9 @@
       },
       {
         "nom": "Sabó roba marsella",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Xicoira",
