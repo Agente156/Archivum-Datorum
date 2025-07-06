@@ -260,7 +260,7 @@
         "nom": "Formatge burrata",
         "marcat": true,
         "categoria": "Làctics",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Formatge grana padano en pols",
@@ -312,7 +312,7 @@
       },
       {
         "nom": "Iceberg",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
