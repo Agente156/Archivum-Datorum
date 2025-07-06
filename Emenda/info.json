@@ -813,9 +813,9 @@
       },
       {
         "nom": "Pomes granny smith",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Pomes",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Pomes gala",
@@ -881,7 +881,7 @@
         "nom": "Alvocat",
         "marcat": true,
         "categoria": "Fruita",
-        "quantitat": 1
+        "quantitat": 2
       },
       {
         "nom": "Maduixes",
@@ -917,7 +917,7 @@
         "nom": "Cogombre",
         "marcat": true,
         "categoria": "Hortalisses",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Mongetes",
