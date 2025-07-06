@@ -368,7 +368,7 @@
         "nom": "Xocolata amb llet",
         "marcat": true,
         "categoria": "Xocolata",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Ketchup",
@@ -396,7 +396,7 @@
       },
       {
         "nom": "Salvaslips protegeslip suave normal",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
       },
