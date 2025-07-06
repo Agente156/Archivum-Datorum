@@ -236,7 +236,7 @@
         "nom": "Iogurts grecs naturals 0,0%",
         "marcat": true,
         "categoria": "Làctics",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Formatge",
@@ -258,7 +258,7 @@
       },
       {
         "nom": "Formatge burrata",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
