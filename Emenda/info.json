@@ -62,11 +62,11 @@
         "nom": "Gazpacho",
         "marcat": true,
         "categoria": "Begudes",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Salmorejo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
