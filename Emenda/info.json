@@ -362,11 +362,11 @@
         "nom": "Bosses brossa",
         "marcat": true,
         "categoria": "Neteja",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Xocolata amb llet",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Xocolata",
         "quantitat": 0
       },
