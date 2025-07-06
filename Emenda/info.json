@@ -68,7 +68,7 @@
         "nom": "Salmorejo",
         "marcat": true,
         "categoria": "Begudes",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Vichy",
@@ -186,7 +186,7 @@
       },
       {
         "nom": "Pasta espiral",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
