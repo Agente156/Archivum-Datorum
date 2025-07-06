@@ -224,11 +224,11 @@
         "nom": "Llet arròs i avellanes",
         "marcat": true,
         "categoria": "Làctics",
-        "quantitat": 1
+        "quantitat": 2
       },
       {
         "nom": "Iogurts naturals danone",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
