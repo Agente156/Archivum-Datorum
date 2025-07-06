@@ -717,6 +717,12 @@
         "marcat": false,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
+      },
+      {
+        "nom": "Bicarbonat",
+        "marcat": false,
+        "categoria": "Neteja",
+        "quantitat": 0
       }
     ]
   },
