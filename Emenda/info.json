@@ -360,7 +360,7 @@
       },
       {
         "nom": "Bosses brossa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 1
       },
