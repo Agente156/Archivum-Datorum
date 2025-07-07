@@ -60,13 +60,13 @@
       },
       {
         "nom": "Gazpacho",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Salmorejo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
