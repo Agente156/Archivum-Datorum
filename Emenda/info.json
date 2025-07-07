@@ -252,7 +252,7 @@
       },
       {
         "nom": "Formatge bocata calent",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
