@@ -336,13 +336,13 @@
       },
       {
         "nom": "Yatekomo pollo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Ceba fregida",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -612,7 +612,7 @@
       },
       {
         "nom": "Tortitas mexicanes",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
