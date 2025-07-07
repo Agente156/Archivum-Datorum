@@ -729,6 +729,12 @@
         "marcat": true,
         "categoria": "Làctics",
         "quantitat": 1
+      },
+      {
+        "nom": "Massa pizza",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
