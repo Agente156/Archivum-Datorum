@@ -168,7 +168,7 @@
       },
       {
         "nom": "Farina madalenes",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
