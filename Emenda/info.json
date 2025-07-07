@@ -732,9 +732,9 @@
       },
       {
         "nom": "Massa pizza",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
-        "quantitat": 0
+        "quantitat": 1
       }
     ]
   },
