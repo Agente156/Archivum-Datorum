@@ -210,7 +210,7 @@
       },
       {
         "nom": "Llet semi",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 1
       },
@@ -222,7 +222,7 @@
       },
       {
         "nom": "Llet arròs i avellanes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 2
       },
