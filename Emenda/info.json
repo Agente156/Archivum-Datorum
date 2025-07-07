@@ -522,7 +522,7 @@
       },
       {
         "nom": "Nous de Brasil",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
@@ -534,7 +534,7 @@
       },
       {
         "nom": "Cacahuets",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
