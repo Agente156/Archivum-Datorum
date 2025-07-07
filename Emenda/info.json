@@ -102,13 +102,13 @@
       },
       {
         "nom": "Suc llimona",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Infusió farigola",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -582,7 +582,7 @@
       },
       {
         "nom": "Caldo Pollastre",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
