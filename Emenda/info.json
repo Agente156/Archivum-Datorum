@@ -366,7 +366,7 @@
       },
       {
         "nom": "Xocolata amb llet",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Xocolata",
         "quantitat": 1
       },
@@ -726,7 +726,7 @@
       },
       {
         "nom": "Formatge Burgos",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 1
       },
