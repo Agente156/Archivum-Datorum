@@ -132,13 +132,13 @@
       },
       {
         "nom": "Clares d'ou",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
       {
         "nom": "Pebre",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
