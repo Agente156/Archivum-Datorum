@@ -60,7 +60,7 @@
       },
       {
         "nom": "Gazpacho",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 1
       },
