@@ -56,7 +56,7 @@
         "nom": "Aigua bronchales",
         "marcat": true,
         "categoria": "Begudes",
-        "quantitat": 0
+        "quantitat": 9
       },
       {
         "nom": "Gazpacho",
@@ -248,7 +248,7 @@
         "nom": "Formatge pizza",
         "marcat": true,
         "categoria": "Làctics",
-        "quantitat": 0
+        "quantitat": 2
       },
       {
         "nom": "Formatge bocata calent",
@@ -522,7 +522,7 @@
       },
       {
         "nom": "Nous de Brasil",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
