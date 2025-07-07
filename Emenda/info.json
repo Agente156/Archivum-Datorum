@@ -258,9 +258,9 @@
       },
       {
         "nom": "Formatge burrata",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Formatge grana padano en pols",
@@ -296,7 +296,7 @@
         "nom": "Xoriço picant",
         "marcat": false,
         "categoria": "Carn i Peix",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Tonyina",
@@ -728,7 +728,7 @@
         "nom": "Formatge Burgos",
         "marcat": false,
         "categoria": "Làctics",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Massa pizza",
