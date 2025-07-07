@@ -176,7 +176,7 @@
         "nom": "Arròs",
         "marcat": false,
         "categoria": "Pasta i Arròs",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Arròs basmati/redondo",
@@ -188,7 +188,7 @@
         "nom": "Pasta espiral",
         "marcat": false,
         "categoria": "Pasta i Arròs",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Pasta sopa",
@@ -212,7 +212,7 @@
         "nom": "Llet semi",
         "marcat": false,
         "categoria": "Làctics",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Llet sencera",
@@ -224,19 +224,19 @@
         "nom": "Llet arròs i avellanes",
         "marcat": false,
         "categoria": "Làctics",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Iogurts naturals danone",
         "marcat": false,
         "categoria": "Làctics",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Iogurts grecs naturals 0,0%",
         "marcat": false,
         "categoria": "Làctics",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Formatge",
@@ -248,7 +248,7 @@
         "nom": "Formatge pizza",
         "marcat": false,
         "categoria": "Làctics",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Formatge bocata calent",
@@ -773,7 +773,7 @@
         "nom": "Tomàquet mediterràni",
         "marcat": false,
         "categoria": "Tomàquets",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Tomàquet ibèric",
@@ -833,7 +833,7 @@
         "nom": "Pomes granny smith",
         "marcat": false,
         "categoria": "Pomes",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Pomes gala",
@@ -863,13 +863,13 @@
         "nom": "Plàtans",
         "marcat": false,
         "categoria": "Fruita",
-        "quantitat": 3
+        "quantitat": 0
       },
       {
         "nom": "Kiwis",
         "marcat": false,
         "categoria": "Fruita",
-        "quantitat": 4
+        "quantitat": 0
       },
       {
         "nom": "Síndria",
@@ -881,7 +881,7 @@
         "nom": "Prèssec",
         "marcat": false,
         "categoria": "Fruita",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Pinya",
@@ -899,7 +899,7 @@
         "nom": "Alvocat",
         "marcat": false,
         "categoria": "Fruita",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Maduixes",
@@ -947,7 +947,7 @@
         "nom": "Pastanaga",
         "marcat": false,
         "categoria": "Hortalisses",
-        "quantitat": 3
+        "quantitat": 0
       },
       {
         "nom": "Carbassó",
