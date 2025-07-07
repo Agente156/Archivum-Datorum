@@ -144,13 +144,13 @@
       },
       {
         "nom": "Llevat Royal",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
       {
         "nom": "Farina",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
