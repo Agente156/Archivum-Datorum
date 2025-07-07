@@ -618,13 +618,13 @@
       },
       {
         "nom": "Tortitas mexicanas integrals",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Patates xips",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -732,7 +732,7 @@
       },
       {
         "nom": "Massa pizza",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
