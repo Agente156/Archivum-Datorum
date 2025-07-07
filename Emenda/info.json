@@ -246,7 +246,7 @@
       },
       {
         "nom": "Formatge pizza",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 2
       },
