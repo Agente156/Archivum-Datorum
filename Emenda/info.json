@@ -78,13 +78,13 @@
       },
       {
         "nom": "Coca-Cola",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Coca-Cola 0%",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
