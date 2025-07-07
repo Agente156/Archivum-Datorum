@@ -933,7 +933,7 @@
       },
       {
         "nom": "Pastanaga",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 3
       },
