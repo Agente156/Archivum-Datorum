@@ -720,7 +720,7 @@
       },
       {
         "nom": "Bicarbonat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 1
       },
