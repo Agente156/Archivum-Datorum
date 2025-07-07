@@ -132,19 +132,19 @@
       },
       {
         "nom": "Clares d'ou",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
       {
         "nom": "Pebre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
       {
         "nom": "Llevat Royal",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
