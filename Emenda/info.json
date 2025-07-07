@@ -84,19 +84,19 @@
       },
       {
         "nom": "Coca-Cola 0%",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Cafè hacendado natural",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Cafè descafeïnat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
