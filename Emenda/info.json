@@ -723,6 +723,12 @@
         "marcat": true,
         "categoria": "Neteja",
         "quantitat": 1
+      },
+      {
+        "nom": "Formatge Burgos",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
