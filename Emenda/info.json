@@ -396,7 +396,7 @@
       },
       {
         "nom": "Salvaslips protegeslip suave normal",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 1
       },
