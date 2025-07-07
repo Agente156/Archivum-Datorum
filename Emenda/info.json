@@ -873,9 +873,9 @@
       },
       {
         "nom": "Síndria",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Prèssec",
