@@ -552,7 +552,7 @@
       },
       {
         "nom": "Salsa mexicana",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Salses",
         "quantitat": 1
       },
