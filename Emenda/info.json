@@ -849,7 +849,7 @@
       },
       {
         "nom": "Xampinyons",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -963,7 +963,7 @@
       },
       {
         "nom": "Herbes caldo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1017,7 +1017,7 @@
       },
       {
         "nom": "Galetes",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
