@@ -108,7 +108,7 @@
       },
       {
         "nom": "Infusió farigola",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
