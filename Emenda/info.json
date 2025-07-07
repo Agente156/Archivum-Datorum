@@ -90,7 +90,7 @@
       },
       {
         "nom": "Cafè hacendado natural",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
