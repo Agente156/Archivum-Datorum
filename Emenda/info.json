@@ -54,7 +54,7 @@
     "productes": [
       {
         "nom": "Aigua bronchales",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 9
       },
