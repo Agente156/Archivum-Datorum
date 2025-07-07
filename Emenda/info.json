@@ -935,11 +935,11 @@
         "nom": "Cogombre",
         "marcat": true,
         "categoria": "Hortalisses",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Mongetes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
