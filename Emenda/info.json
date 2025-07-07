@@ -150,19 +150,19 @@
       },
       {
         "nom": "Farina",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
       {
         "nom": "Farina espelta",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
       {
         "nom": "Farina ametlla",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
