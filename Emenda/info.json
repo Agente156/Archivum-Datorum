@@ -771,13 +771,13 @@
       },
       {
         "nom": "Tomàquet mediterràni",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Tomàquets",
         "quantitat": 0
       },
       {
         "nom": "Tomàquet ibèric",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Tomàquets",
         "quantitat": 0
       },
