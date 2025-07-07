@@ -720,9 +720,9 @@
       },
       {
         "nom": "Bicarbonat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Formatge Burgos",
