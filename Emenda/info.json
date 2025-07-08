@@ -1123,6 +1123,12 @@
         "marcat": true,
         "categoria": "Altres",
         "quantitat": 2
+      },
+      {
+        "nom": "Neteja terres",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
