@@ -1101,6 +1101,12 @@
         "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Lluç",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
