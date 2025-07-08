@@ -1117,6 +1117,12 @@
         "marcat": true,
         "categoria": "Peix",
         "quantitat": 0
+      },
+      {
+        "nom": "Olives",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
