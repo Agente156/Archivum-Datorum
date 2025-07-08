@@ -1111,6 +1111,12 @@
         "marcat": false,
         "categoria": "Peix",
         "quantitat": 0
+      },
+      {
+        "nom": "Salmó",
+        "marcat": false,
+        "categoria": "Peix",
+        "quantitat": 0
       }
     ]
   },
