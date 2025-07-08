@@ -1095,6 +1095,12 @@
         "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
+      },
+      {
+        "nom": "Vichy",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
