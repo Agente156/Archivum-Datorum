@@ -1070,7 +1070,7 @@
         "nom": "Fuet can duran",
         "marcat": true,
         "categoria": "Carn",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Pernil salat",
@@ -1086,7 +1086,7 @@
       },
       {
         "nom": "Salsitxes",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn",
         "quantitat": 0
       },
