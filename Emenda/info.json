@@ -1060,13 +1060,13 @@
       },
       {
         "nom": "Gall dindi",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn",
         "quantitat": 0
       },
       {
         "nom": "Llom",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1114,7 +1114,7 @@
       },
       {
         "nom": "Salmó",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Peix",
         "quantitat": 0
       },
