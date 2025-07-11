@@ -1132,9 +1132,9 @@
       },
       {
         "nom": "Xiclets",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
-        "quantitat": 1
+        "quantitat": 0
       }
     ]
   },
