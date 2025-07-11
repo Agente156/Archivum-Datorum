@@ -879,9 +879,9 @@
       },
       {
         "nom": "Prèssec",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
-        "quantitat": 4
+        "quantitat": 0
       },
       {
         "nom": "Pinya",
