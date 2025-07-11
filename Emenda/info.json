@@ -1102,7 +1102,7 @@
       },
       {
         "nom": "Vichy",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1114,15 +1114,15 @@
       },
       {
         "nom": "Salmó",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Peix",
         "quantitat": 0
       },
       {
         "nom": "Olives",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Neteja terres",
