@@ -1072,9 +1072,9 @@
       },
       {
         "nom": "Fuet can duran",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Pernil salat",
@@ -1126,7 +1126,7 @@
       },
       {
         "nom": "Neteja terres",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
