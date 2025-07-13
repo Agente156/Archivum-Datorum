@@ -660,7 +660,7 @@
       },
       {
         "nom": "Neteja ulleres",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       },
