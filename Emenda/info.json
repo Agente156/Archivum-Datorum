@@ -1183,12 +1183,6 @@
     ],
     "productes": [
       {
-        "nom": "Raspalls dentals",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
         "nom": "Ous",
         "marcat": false,
         "categoria": "Proteïnes",
