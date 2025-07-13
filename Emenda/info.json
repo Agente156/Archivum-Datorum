@@ -1191,6 +1191,12 @@
         "marcat": false,
         "categoria": "Proteïnes",
         "quantitat": 0
+      },
+      {
+        "nom": "Gaspatxo",
+        "marcat": false,
+        "categoria": "Fruita i verdura",
+        "quantitat": 0
       }
     ]
   },
