@@ -909,9 +909,9 @@
       },
       {
         "nom": "Patates monalisa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
-        "quantitat": 6
+        "quantitat": 0
       },
       {
         "nom": "Patates kennebeck",
