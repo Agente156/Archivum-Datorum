@@ -1255,7 +1255,14 @@
         "rgb(236, 236, 236)"
       ]
     ],
-    "productes": []
+    "productes": [
+      {
+        "nom": "Cansalada",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
+      }
+    ]
   },
   {
     "nomLlista": "Carnisseria Sales",
