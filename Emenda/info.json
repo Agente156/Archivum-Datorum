@@ -741,6 +741,12 @@
         "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
+      },
+      {
+        "nom": "Macarrons",
+        "marcat": false,
+        "categoria": "Pasta i Arròs",
+        "quantitat": 0
       }
     ]
   },
