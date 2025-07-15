@@ -186,7 +186,7 @@
       },
       {
         "nom": "Pasta espiral",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
