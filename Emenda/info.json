@@ -420,9 +420,9 @@
       },
       {
         "nom": "Tovalloletes netejar lavabo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Paper alumini (x2)",
