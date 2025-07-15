@@ -570,9 +570,9 @@
       },
       {
         "nom": "Tomàquet triturat llauna",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Salses",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Caldo Pollastre",
