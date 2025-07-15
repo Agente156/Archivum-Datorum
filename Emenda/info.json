@@ -729,6 +729,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Llet civada",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
       }
     ]
   },
