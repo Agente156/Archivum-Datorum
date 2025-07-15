@@ -132,7 +132,7 @@
       },
       {
         "nom": "Clares d'ou",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
