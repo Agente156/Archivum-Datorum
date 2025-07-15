@@ -186,7 +186,7 @@
       },
       {
         "nom": "Pasta espiral",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
@@ -744,7 +744,7 @@
       },
       {
         "nom": "Macarrons",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       }
