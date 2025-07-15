@@ -735,6 +735,12 @@
         "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
+      },
+      {
+        "nom": "Mascarpone",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
       }
     ]
   },
