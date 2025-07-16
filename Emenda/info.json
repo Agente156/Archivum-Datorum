@@ -690,9 +690,9 @@
       },
       {
         "nom": "Colacao",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Xocolata",
-        "quantitat": 3
+        "quantitat": 0
       },
       {
         "nom": "Gel olive",
