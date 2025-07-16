@@ -690,7 +690,7 @@
       },
       {
         "nom": "Colacao",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Xocolata",
         "quantitat": 0
       },
