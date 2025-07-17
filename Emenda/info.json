@@ -1235,19 +1235,19 @@
     "productes": [
       {
         "nom": "Xocolata 🍫",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 1
       },
       {
         "nom": "Gall d'indi",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 1
       },
       {
         "nom": "Pernil dolç",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 1
       },
