@@ -1206,7 +1206,7 @@
       },
       {
         "nom": "Gaspatxo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita i verdura",
         "quantitat": 0
       },
