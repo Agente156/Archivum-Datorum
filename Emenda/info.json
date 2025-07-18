@@ -1206,9 +1206,9 @@
       },
       {
         "nom": "Gaspatxo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita i verdura",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Tovalloletes aigua",
