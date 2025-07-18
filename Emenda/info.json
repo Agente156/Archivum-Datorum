@@ -885,7 +885,7 @@
       },
       {
         "nom": "Prèssec",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
