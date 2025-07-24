@@ -1241,15 +1241,15 @@
     "productes": [
       {
         "nom": "Xocolata 🍫",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Gall d'indi",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Pernil dolç",
