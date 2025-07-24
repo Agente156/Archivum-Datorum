@@ -1253,9 +1253,9 @@
       },
       {
         "nom": "Pernil dolç",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Pastilles caldo pollastre",
