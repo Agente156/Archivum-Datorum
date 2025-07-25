@@ -666,7 +666,7 @@
       },
       {
         "nom": "All congelat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
