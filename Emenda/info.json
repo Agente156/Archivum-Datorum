@@ -258,7 +258,7 @@
       },
       {
         "nom": "Formatge burrata",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -708,7 +708,7 @@
       },
       {
         "nom": "Formatge Burgos",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
