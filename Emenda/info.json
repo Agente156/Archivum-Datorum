@@ -690,7 +690,7 @@
       },
       {
         "nom": "Gel olive",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
       },
