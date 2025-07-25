@@ -444,7 +444,7 @@
       },
       {
         "nom": "Baietes",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       },
