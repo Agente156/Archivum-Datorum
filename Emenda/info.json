@@ -735,6 +735,12 @@
         "marcat": false,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
+      },
+      {
+        "nom": "All molt",
+        "marcat": false,
+        "categoria": "Bàsics",
+        "quantitat": 0
       }
     ]
   },
