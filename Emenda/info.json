@@ -765,13 +765,13 @@
     "productes": [
       {
         "nom": "Melmelada",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Tomàquet mediterràni",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Tomàquets",
         "quantitat": 0
       },
@@ -891,7 +891,7 @@
       },
       {
         "nom": "Llimones",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
