@@ -861,7 +861,7 @@
       },
       {
         "nom": "Peres",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita",
         "quantitat": 0
       },
@@ -879,7 +879,7 @@
       },
       {
         "nom": "Síndria",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
