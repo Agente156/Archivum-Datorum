@@ -861,7 +861,7 @@
       },
       {
         "nom": "Peres",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
