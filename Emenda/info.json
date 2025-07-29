@@ -1072,7 +1072,7 @@
       },
       {
         "nom": "Llom",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
