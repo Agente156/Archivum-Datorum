@@ -741,6 +741,12 @@
         "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
+      },
+      {
+        "nom": "Nous",
+        "marcat": false,
+        "categoria": "Fruits Secs",
+        "quantitat": 0
       }
     ]
   },
