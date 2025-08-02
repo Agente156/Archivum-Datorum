@@ -744,7 +744,7 @@
       },
       {
         "nom": "Nous",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       }
