@@ -606,9 +606,9 @@
       },
       {
         "nom": "Tortitas mexicanes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Tortitas mexicanas integrals",
