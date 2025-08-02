@@ -783,7 +783,7 @@
       },
       {
         "nom": "Tomàquet mediterràni",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Tomàquets",
         "quantitat": 0
       },
