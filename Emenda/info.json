@@ -783,9 +783,9 @@
       },
       {
         "nom": "Tomàquet mediterràni",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Tomàquets",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Tomàquet ibèric",
@@ -891,9 +891,9 @@
       },
       {
         "nom": "Prèssec",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
-        "quantitat": 4
+        "quantitat": 0
       },
       {
         "nom": "Pinya",
@@ -927,9 +927,9 @@
       },
       {
         "nom": "Patates monalisa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
-        "quantitat": 5
+        "quantitat": 0
       },
       {
         "nom": "Patates kennebeck",
