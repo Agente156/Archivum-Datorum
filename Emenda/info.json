@@ -951,7 +951,7 @@
       },
       {
         "nom": "Cogombre",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
