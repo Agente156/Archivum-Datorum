@@ -408,7 +408,7 @@
       },
       {
         "nom": "Gel sanex",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
       },
