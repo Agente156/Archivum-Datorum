@@ -1029,7 +1029,7 @@
       },
       {
         "nom": "All",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
