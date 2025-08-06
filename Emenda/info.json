@@ -813,7 +813,7 @@
       },
       {
         "nom": "Tomacó",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Tomàquets",
         "quantitat": 0
       },
