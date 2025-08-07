@@ -753,6 +753,12 @@
         "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Desodorant",
+        "marcat": false,
+        "categoria": "Higiene",
+        "quantitat": 0
       }
     ]
   },
