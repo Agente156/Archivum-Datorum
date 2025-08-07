@@ -282,7 +282,7 @@
       },
       {
         "nom": "Pernil salat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
@@ -708,7 +708,7 @@
       },
       {
         "nom": "Formatge Burgos",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
