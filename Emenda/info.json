@@ -300,7 +300,7 @@
       },
       {
         "nom": "Tonyina",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
@@ -312,7 +312,7 @@
       },
       {
         "nom": "Iceberg 🥗",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
