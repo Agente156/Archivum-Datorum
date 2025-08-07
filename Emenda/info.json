@@ -384,7 +384,7 @@
       },
       {
         "nom": "Paper cel",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
