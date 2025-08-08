@@ -1120,7 +1120,7 @@
       },
       {
         "nom": "Frankfurt",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1132,7 +1132,7 @@
       },
       {
         "nom": "Rap",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Peix",
         "quantitat": 0
       },
