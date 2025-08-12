@@ -732,7 +732,7 @@
       },
       {
         "nom": "Macarrons",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
