@@ -648,7 +648,7 @@
       },
       {
         "nom": "Blat de moro llauna",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
