@@ -909,9 +909,9 @@
       },
       {
         "nom": "Prèssec",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
-        "quantitat": 3
+        "quantitat": 0
       },
       {
         "nom": "Pinya",
@@ -927,7 +927,7 @@
       },
       {
         "nom": "Alvocat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
