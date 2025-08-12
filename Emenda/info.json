@@ -759,6 +759,12 @@
         "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
+      },
+      {
+        "nom": "Fritos",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
