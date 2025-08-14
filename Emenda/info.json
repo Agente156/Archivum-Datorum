@@ -897,7 +897,7 @@
       },
       {
         "nom": "Kiwis",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
@@ -909,7 +909,7 @@
       },
       {
         "nom": "Prèssec",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
