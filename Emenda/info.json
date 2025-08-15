@@ -636,7 +636,7 @@
       },
       {
         "nom": "Pa torrat FIBRA & SESAMO",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
@@ -1210,7 +1210,7 @@
       },
       {
         "nom": "Gaspatxo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
