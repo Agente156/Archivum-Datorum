@@ -1246,13 +1246,13 @@
     "productes": [
       {
         "nom": "Ous",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Proteïnes",
         "quantitat": 0
       },
       {
         "nom": "Gaspatxo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita i verdura",
         "quantitat": 0
       },
