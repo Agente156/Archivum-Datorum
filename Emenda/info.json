@@ -903,7 +903,7 @@
       },
       {
         "nom": "Síndria",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
