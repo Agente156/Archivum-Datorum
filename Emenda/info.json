@@ -915,13 +915,13 @@
       },
       {
         "nom": "Llimones",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
       {
         "nom": "Alvocat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
