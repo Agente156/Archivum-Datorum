@@ -720,7 +720,7 @@
       },
       {
         "nom": "Llet civada",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -732,7 +732,7 @@
       },
       {
         "nom": "Macarrons",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
