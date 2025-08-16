@@ -843,7 +843,7 @@
       },
       {
         "nom": "Pomes fuji",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Pomes",
         "quantitat": 0
       },
