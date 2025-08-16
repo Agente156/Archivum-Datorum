@@ -306,7 +306,7 @@
       },
       {
         "nom": "Salmó al natural",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
@@ -756,9 +756,9 @@
       },
       {
         "nom": "Desodorant",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Fritos",
