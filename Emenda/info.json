@@ -1225,6 +1225,12 @@
         "marcat": true,
         "categoria": "Peix",
         "quantitat": 0
+      },
+      {
+        "nom": "Tomàquet triturat",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
