@@ -762,7 +762,7 @@
       },
       {
         "nom": "Formatge mozzarella",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       }
