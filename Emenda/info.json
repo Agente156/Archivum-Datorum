@@ -480,9 +480,9 @@
       },
       {
         "nom": "Vinagre neteja",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Neteja forn",
