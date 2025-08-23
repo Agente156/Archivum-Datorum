@@ -1219,6 +1219,12 @@
         "marcat": false,
         "categoria": "Peix",
         "quantitat": 0
+      },
+      {
+        "nom": "Lluç",
+        "marcat": false,
+        "categoria": "Peix",
+        "quantitat": 0
       }
     ]
   },
