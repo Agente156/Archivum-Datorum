@@ -708,7 +708,7 @@
       },
       {
         "nom": "Formatge Burgos",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
