@@ -1132,7 +1132,7 @@
       },
       {
         "nom": "Rap",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Peix",
         "quantitat": 0
       },
