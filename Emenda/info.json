@@ -588,13 +588,13 @@
       },
       {
         "nom": "Nutella/Nocilla",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Xocolata",
         "quantitat": 0
       },
       {
         "nom": "Cereals xocolata",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Xocolata",
         "quantitat": 0
       },
