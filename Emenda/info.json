@@ -1114,7 +1114,7 @@
       },
       {
         "nom": "Salsitxes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1234,7 +1234,7 @@
       },
       {
         "nom": "Pèsols",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
