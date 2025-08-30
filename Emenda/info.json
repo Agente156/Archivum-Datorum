@@ -522,7 +522,7 @@
       },
       {
         "nom": "Festucs",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
@@ -582,7 +582,7 @@
       },
       {
         "nom": "Pipes carbassa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
