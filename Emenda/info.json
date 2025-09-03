@@ -1240,7 +1240,7 @@
       },
       {
         "nom": "Cafè soluble descafeïnat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
