@@ -606,9 +606,9 @@
       },
       {
         "nom": "Tortitas mexicanes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Tortitas mexicanas integrals",
@@ -630,7 +630,7 @@
       },
       {
         "nom": "Pa Motlle 🍞",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
