@@ -1233,7 +1233,7 @@
       },
       {
         "nom": "Llom",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
@@ -1264,7 +1264,7 @@
       },
       {
         "nom": "Gaspatxo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita i verdura",
         "quantitat": 0
       },
