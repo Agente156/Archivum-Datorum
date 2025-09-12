@@ -813,9 +813,9 @@
       },
       {
         "nom": "Tomàquet rosa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Tomàquets",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Tomàquet rosa rústic",
@@ -993,7 +993,7 @@
       },
       {
         "nom": "Col",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
