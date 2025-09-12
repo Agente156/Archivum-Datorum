@@ -1324,7 +1324,7 @@
       },
       {
         "nom": "Formatge Burgos",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
