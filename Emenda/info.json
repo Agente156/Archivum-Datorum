@@ -606,13 +606,13 @@
       },
       {
         "nom": "Tortitas mexicanes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Tortitas mexicanas integrals",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
