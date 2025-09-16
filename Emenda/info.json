@@ -1334,7 +1334,7 @@
       },
       {
         "nom": "Pernil",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1352,7 +1352,7 @@
       },
       {
         "nom": "Pernil dolç",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
