@@ -180,9 +180,9 @@
       },
       {
         "nom": "Arròs basmati/redondo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pasta i Arròs",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Pasta espiral",
@@ -360,7 +360,7 @@
       },
       {
         "nom": "Bosses brossa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
       },
