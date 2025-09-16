@@ -552,7 +552,7 @@
       },
       {
         "nom": "All i oli",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Salses",
         "quantitat": 0
       },
