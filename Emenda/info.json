@@ -1574,5 +1574,15 @@
         "quantitat": 0
       }
     ]
+  },
+  {
+    "nomLlista": "Sirena",
+    "categories": [
+      [
+        "Altres",
+        "rgb(236, 236, 236)"
+      ]
+    ],
+    "productes": []
   }
 ]
