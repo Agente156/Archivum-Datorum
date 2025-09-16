@@ -909,7 +909,7 @@
       },
       {
         "nom": "Patates monalisa",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
