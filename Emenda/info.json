@@ -1336,13 +1336,13 @@
     "productes": [
       {
         "nom": "Oral B menta suave",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Kemphor",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
