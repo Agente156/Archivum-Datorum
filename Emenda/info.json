@@ -1054,7 +1054,7 @@
       },
       {
         "nom": "Oli 0,4",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
