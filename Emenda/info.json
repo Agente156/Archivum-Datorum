@@ -836,12 +836,6 @@
         "quantitat": 0
       },
       {
-        "nom": "Peres",
-        "marcat": false,
-        "categoria": "Fruita",
-        "quantitat": 0
-      },
-      {
         "nom": "Plàtans",
         "marcat": true,
         "categoria": "Fruita",
