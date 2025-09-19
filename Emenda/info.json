@@ -964,7 +964,7 @@
       },
       {
         "nom": "Bistec",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -982,7 +982,7 @@
       },
       {
         "nom": "Llom",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1126,7 +1126,7 @@
       },
       {
         "nom": "Pèsols",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1144,7 +1144,7 @@
       },
       {
         "nom": "Crostons",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
