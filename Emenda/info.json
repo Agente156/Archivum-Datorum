@@ -1549,26 +1549,5 @@
         "quantitat": 0
       }
     ]
-  },
-  {
-    "nomLlista": "Vgbt",
-    "categories": [
-      [
-        "Altres",
-        "rgb(236, 236, 236)"
-      ],
-      [
-        "Hgtf",
-        "rgb(253, 216, 53)"
-      ]
-    ],
-    "productes": [
-      {
-        "nom": "Yhh",
-        "marcat": false,
-        "categoria": "Hgtf",
-        "quantitat": 0
-      }
-    ]
   }
 ]
