@@ -1565,7 +1565,7 @@
     "productes": [
       {
         "nom": "Yhh",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hgtf",
         "quantitat": 0
       }
