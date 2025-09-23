@@ -1562,6 +1562,13 @@
         "rgb(253, 216, 53)"
       ]
     ],
-    "productes": []
+    "productes": [
+      {
+        "nom": "Yhh",
+        "marcat": false,
+        "categoria": "Hgtf",
+        "quantitat": 0
+      }
+    ]
   }
 ]
