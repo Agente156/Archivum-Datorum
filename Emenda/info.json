@@ -1547,6 +1547,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Peix arrebossat",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   }
