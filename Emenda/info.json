@@ -873,7 +873,7 @@
       },
       {
         "nom": "Mongetes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -885,7 +885,7 @@
       },
       {
         "nom": "Carbassó",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
