@@ -176,7 +176,7 @@
         "nom": "Arròs",
         "marcat": true,
         "categoria": "Pasta i Arròs",
-        "quantitat": 3
+        "quantitat": 0
       },
       {
         "nom": "Arròs basmati/redondo",
@@ -1151,6 +1151,12 @@
       {
         "nom": "Macarrons",
         "marcat": true,
+        "categoria": "Altres",
+        "quantitat": 0
+      },
+      {
+        "nom": "Pizza Tarradellas",
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
