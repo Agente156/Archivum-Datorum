@@ -879,13 +879,13 @@
       },
       {
         "nom": "Pastanaga",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
       {
         "nom": "Carbassó",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
