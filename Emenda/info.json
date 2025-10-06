@@ -714,7 +714,7 @@
       },
       {
         "nom": "Llet civada i llet arròs",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
