@@ -582,9 +582,9 @@
       },
       {
         "nom": "Pipes carbassa natural sense sal",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Nutella/Nocilla",
