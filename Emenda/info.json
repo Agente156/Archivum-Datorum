@@ -510,9 +510,9 @@
       },
       {
         "nom": "Avellanes torrades",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Nous de Brasil",
