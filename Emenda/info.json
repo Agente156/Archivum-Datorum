@@ -366,9 +366,9 @@
       },
       {
         "nom": "Xocolata amb llet",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Xocolata",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Ketchup",
