@@ -1258,7 +1258,7 @@
     "productes": [
       {
         "nom": "Ous",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Proteïnes",
         "quantitat": 0
       },
@@ -1282,13 +1282,13 @@
       },
       {
         "nom": "Iogurts",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Gaspatxo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
