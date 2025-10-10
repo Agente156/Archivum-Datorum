@@ -636,9 +636,9 @@
       },
       {
         "nom": "Pa torrat FIBRA & SESAMO",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Pa ratllat",
