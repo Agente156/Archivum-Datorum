@@ -54,7 +54,7 @@
     "productes": [
       {
         "nom": "Aigua bronchales",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -224,7 +224,7 @@
         "nom": "Llet arròs i avellanes",
         "marcat": true,
         "categoria": "Làctics",
-        "quantitat": 3
+        "quantitat": 2
       },
       {
         "nom": "Iogurts naturals danone",
