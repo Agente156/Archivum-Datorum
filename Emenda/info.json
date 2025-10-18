@@ -1270,13 +1270,13 @@
       },
       {
         "nom": "Formatge Burgos",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Iogurts",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
