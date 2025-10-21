@@ -228,13 +228,13 @@
       },
       {
         "nom": "Iogurts naturals danone",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
       {
         "nom": "Iogurts grecs naturals 0,0%",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -312,13 +312,13 @@
       },
       {
         "nom": "Iceberg 🥗",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
       {
         "nom": "Enciam romana",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
