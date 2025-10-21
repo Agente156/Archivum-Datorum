@@ -390,7 +390,7 @@
       },
       {
         "nom": "Kleenex capsa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
@@ -768,7 +768,7 @@
       },
       {
         "nom": "Boquerons",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
