@@ -1193,6 +1193,12 @@
         "marcat": false,
         "categoria": "Fruita i verdura",
         "quantitat": 0
+      },
+      {
+        "nom": "Pomes fuji",
+        "marcat": false,
+        "categoria": "Fruita i verdura",
+        "quantitat": 0
       }
     ]
   },
