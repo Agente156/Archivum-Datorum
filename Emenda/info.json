@@ -1193,6 +1193,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Bolets fricandó",
+        "marcat": false,
+        "categoria": "Fruita i verdura",
+        "quantitat": 0
       }
     ]
   },
