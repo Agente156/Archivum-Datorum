@@ -1236,6 +1236,12 @@
         "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Ossos per caldo",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
