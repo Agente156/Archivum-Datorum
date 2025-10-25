@@ -1205,6 +1205,12 @@
         "marcat": true,
         "categoria": "Fruita i verdura",
         "quantitat": 0
+      },
+      {
+        "nom": "Alls",
+        "marcat": false,
+        "categoria": "Fruita i verdura",
+        "quantitat": 0
       }
     ]
   },
