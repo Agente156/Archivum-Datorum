@@ -843,7 +843,7 @@
       },
       {
         "nom": "Plàtans",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
@@ -903,7 +903,7 @@
       },
       {
         "nom": "Herbes caldo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -959,22 +959,18 @@
       [
         "Peix",
         "rgb(109, 186, 248)"
-      ],
-      [
-        "Fruita i verdura",
-        "rgb(253, 216, 53)"
       ]
     ],
     "productes": [
       {
         "nom": "Xurrasco",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
       {
         "nom": "Bistec",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -998,7 +994,7 @@
       },
       {
         "nom": "Fuet can duran",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1022,7 +1018,7 @@
       },
       {
         "nom": "Frankfurt",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1042,6 +1038,12 @@
         "nom": "Salmó",
         "marcat": false,
         "categoria": "Peix",
+        "quantitat": 0
+      },
+      {
+        "nom": "Olives",
+        "marcat": false,
+        "categoria": "Altres",
         "quantitat": 0
       },
       {
@@ -1099,6 +1101,12 @@
         "quantitat": 0
       },
       {
+        "nom": "Gaspatxo",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
+      },
+      {
         "nom": "Cervesa",
         "marcat": false,
         "categoria": "Altres",
@@ -1114,7 +1122,19 @@
         "nom": "Lluç",
         "marcat": false,
         "categoria": "Peix",
-        "quantitat": 1
+        "quantitat": 0
+      },
+      {
+        "nom": "Tomàquet triturat",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
+      },
+      {
+        "nom": "Pèsols",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       },
       {
         "nom": "Cafè soluble descafeïnat",
@@ -1136,7 +1156,7 @@
       },
       {
         "nom": "Iogurts",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1159,57 +1179,15 @@
         "quantitat": 0
       },
       {
-        "nom": "Fideus",
+        "nom": "Pomes fuji",
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
-        "nom": "Bolets fricandó",
-        "marcat": true,
-        "categoria": "Fruita i verdura",
-        "quantitat": 0
-      },
-      {
-        "nom": "Tomàquet triturat",
-        "marcat": true,
-        "categoria": "Fruita i verdura",
-        "quantitat": 0
-      },
-      {
-        "nom": "Pèsols",
+        "nom": "Fideus",
         "marcat": false,
-        "categoria": "Fruita i verdura",
-        "quantitat": 0
-      },
-      {
-        "nom": "Pomes fuji",
-        "marcat": false,
-        "categoria": "Fruita i verdura",
-        "quantitat": 0
-      },
-      {
-        "nom": "Gaspatxo",
-        "marcat": false,
-        "categoria": "Fruita i verdura",
-        "quantitat": 0
-      },
-      {
-        "nom": "Olives",
-        "marcat": false,
-        "categoria": "Fruita i verdura",
-        "quantitat": 0
-      },
-      {
-        "nom": "Ceba",
-        "marcat": true,
-        "categoria": "Fruita i verdura",
-        "quantitat": 0
-      },
-      {
-        "nom": "Alls",
-        "marcat": false,
-        "categoria": "Fruita i verdura",
+        "categoria": "Altres",
         "quantitat": 0
       }
     ]
