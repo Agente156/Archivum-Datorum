@@ -228,7 +228,7 @@
       },
       {
         "nom": "Iogurts naturals danone",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
