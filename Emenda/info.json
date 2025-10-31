@@ -456,7 +456,7 @@
       },
       {
         "nom": "Fairy",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
       },
