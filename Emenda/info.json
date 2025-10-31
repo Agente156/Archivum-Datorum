@@ -390,7 +390,7 @@
       },
       {
         "nom": "Kleenex capsa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
