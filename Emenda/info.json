@@ -60,7 +60,7 @@
       },
       {
         "nom": "Gazpacho",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -378,7 +378,7 @@
       },
       {
         "nom": "Paper vàter",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
@@ -648,7 +648,7 @@
       },
       {
         "nom": "Blat de moro llauna",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
