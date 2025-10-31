@@ -240,7 +240,7 @@
       },
       {
         "nom": "Formatge",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -402,7 +402,7 @@
       },
       {
         "nom": "Interdental",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
