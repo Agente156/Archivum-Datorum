@@ -240,7 +240,7 @@
       },
       {
         "nom": "Formatge",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
