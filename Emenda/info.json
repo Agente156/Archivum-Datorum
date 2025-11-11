@@ -546,9 +546,9 @@
       },
       {
         "nom": "Salsa mexicana",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Salses",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "All i oli",
