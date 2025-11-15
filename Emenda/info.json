@@ -843,7 +843,7 @@
       },
       {
         "nom": "Kiwis",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
@@ -861,13 +861,13 @@
       },
       {
         "nom": "Alvocat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
       {
         "nom": "Patates monalisa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
