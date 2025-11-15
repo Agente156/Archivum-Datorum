@@ -988,7 +988,7 @@
       },
       {
         "nom": "Llom",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1006,7 +1006,7 @@
       },
       {
         "nom": "Pollastre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
