@@ -765,6 +765,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Puré patatas",
+        "marcat": false,
+        "categoria": "Pasta i Arròs",
+        "quantitat": 0
       }
     ]
   },
