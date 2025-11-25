@@ -336,9 +336,9 @@
       },
       {
         "nom": "Yatekomo pollo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
-        "quantitat": 0
+        "quantitat": 2
       },
       {
         "nom": "Ceba fregida",
