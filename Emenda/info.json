@@ -774,7 +774,7 @@
       },
       {
         "nom": "Farina d'arròs",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
