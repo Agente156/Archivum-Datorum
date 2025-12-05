@@ -192,7 +192,7 @@
       },
       {
         "nom": "Pasta sopa",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
