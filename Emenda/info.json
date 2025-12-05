@@ -771,6 +771,12 @@
         "marcat": false,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
+      },
+      {
+        "nom": "Farina d'arròs",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
