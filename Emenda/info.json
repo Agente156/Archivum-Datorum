@@ -396,7 +396,7 @@
       },
       {
         "nom": "Salvaslips EVAX",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
       },
