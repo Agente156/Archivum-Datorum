@@ -174,9 +174,9 @@
       },
       {
         "nom": "Arròs",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pasta i Arròs",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Arròs basmati/redondo",
