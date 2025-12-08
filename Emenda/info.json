@@ -855,7 +855,7 @@
       },
       {
         "nom": "Pinya",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
