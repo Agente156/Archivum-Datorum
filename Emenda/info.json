@@ -933,7 +933,7 @@
       },
       {
         "nom": "Galetes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -951,7 +951,7 @@
       },
       {
         "nom": "Mandarines 🍊",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
@@ -1132,7 +1132,7 @@
       },
       {
         "nom": "Lluç",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Peix",
         "quantitat": 0
       },
