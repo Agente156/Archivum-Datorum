@@ -1000,7 +1000,7 @@
       },
       {
         "nom": "Llom",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1180,7 +1180,7 @@
       },
       {
         "nom": "Iogurts fageda",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1192,7 +1192,7 @@
       },
       {
         "nom": "Pomes fuji",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1216,7 +1216,7 @@
       },
       {
         "nom": "Caldo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
