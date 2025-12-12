@@ -948,6 +948,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Porro",
+        "marcat": false,
+        "categoria": "Hortalisses",
+        "quantitat": 0
       }
     ]
   },
