@@ -954,6 +954,12 @@
         "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
+      },
+      {
+        "nom": "Mandarines 🍊",
+        "marcat": false,
+        "categoria": "Fruita",
+        "quantitat": 0
       }
     ]
   },
