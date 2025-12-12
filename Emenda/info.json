@@ -1228,13 +1228,13 @@
       },
       {
         "nom": "Civada cuita",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Cuscús",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
