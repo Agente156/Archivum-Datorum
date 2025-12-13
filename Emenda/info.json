@@ -891,7 +891,7 @@
       },
       {
         "nom": "Carbassó",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -909,9 +909,9 @@
       },
       {
         "nom": "Ceba dolça",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Ceba de Figueres",
