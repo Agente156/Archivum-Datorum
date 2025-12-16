@@ -720,7 +720,7 @@
       },
       {
         "nom": "All en pols",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
