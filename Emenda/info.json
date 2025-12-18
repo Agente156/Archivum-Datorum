@@ -432,13 +432,13 @@
       },
       {
         "nom": "Paper forn",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
       },
       {
         "nom": "Film",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
       },
