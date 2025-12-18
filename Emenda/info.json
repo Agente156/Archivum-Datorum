@@ -1264,7 +1264,7 @@
       },
       {
         "nom": "Arròs inflat",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
