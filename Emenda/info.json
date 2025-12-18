@@ -837,13 +837,13 @@
       },
       {
         "nom": "Plàtans",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
       {
         "nom": "Kiwis",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
@@ -951,13 +951,13 @@
       },
       {
         "nom": "Mandarines 🍊",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
       {
         "nom": "Peres",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
