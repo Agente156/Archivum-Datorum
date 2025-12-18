@@ -1282,7 +1282,7 @@
       },
       {
         "nom": "Carcassa pollastre i tros de vedella i tros pollastre",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
