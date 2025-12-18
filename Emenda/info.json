@@ -174,7 +174,7 @@
       },
       {
         "nom": "Arròs",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
@@ -546,7 +546,7 @@
       },
       {
         "nom": "Salsa mexicana",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Salses",
         "quantitat": 0
       },
