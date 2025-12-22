@@ -1024,7 +1024,7 @@
       },
       {
         "nom": "Fuet can duran",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1276,7 +1276,7 @@
       },
       {
         "nom": "Vi blanc",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1288,7 +1288,7 @@
       },
       {
         "nom": "Maicena",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
