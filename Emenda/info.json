@@ -1048,7 +1048,7 @@
       },
       {
         "nom": "Frankfurt",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1174,7 +1174,7 @@
       },
       {
         "nom": "Mozzarella pizza",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
