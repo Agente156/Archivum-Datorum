@@ -903,7 +903,7 @@
       },
       {
         "nom": "Ceba dolça",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
