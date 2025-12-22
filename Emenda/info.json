@@ -1150,9 +1150,9 @@
       },
       {
         "nom": "Lluç",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Peix",
-        "quantitat": 3
+        "quantitat": 0
       },
       {
         "nom": "Tomàquet triturat",
@@ -1277,12 +1277,6 @@
       {
         "nom": "Vi blanc",
         "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Pasta de full",
-        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
