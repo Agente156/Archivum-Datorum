@@ -1270,9 +1270,9 @@
       },
       {
         "nom": "Caldo peix",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Vi blanc",
