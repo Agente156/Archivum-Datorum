@@ -1036,13 +1036,13 @@
       },
       {
         "nom": "Pollastre x Nadal",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
       {
         "nom": "Salsitxes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
