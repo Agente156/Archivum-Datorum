@@ -855,9 +855,9 @@
       },
       {
         "nom": "Llimones",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
-        "quantitat": 5
+        "quantitat": 0
       },
       {
         "nom": "Alvocat",
@@ -969,7 +969,7 @@
       },
       {
         "nom": "Api",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
