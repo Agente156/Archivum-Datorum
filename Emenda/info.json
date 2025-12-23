@@ -879,9 +879,9 @@
       },
       {
         "nom": "Pastanaga",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
-        "quantitat": 4
+        "quantitat": 0
       },
       {
         "nom": "Carbassó",
@@ -939,9 +939,9 @@
       },
       {
         "nom": "Porro",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
-        "quantitat": 3
+        "quantitat": 0
       },
       {
         "nom": "Mandarines 🍊",
