@@ -903,9 +903,9 @@
       },
       {
         "nom": "Ceba dolça",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Ceba de Figueres",
