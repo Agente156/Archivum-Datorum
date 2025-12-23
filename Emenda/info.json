@@ -1414,9 +1414,9 @@
       },
       {
         "nom": "Pasta de full",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Llom",
