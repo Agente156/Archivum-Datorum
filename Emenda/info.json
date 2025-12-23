@@ -90,7 +90,7 @@
       },
       {
         "nom": "Cafè hacendado natural ☕",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -336,9 +336,9 @@
       },
       {
         "nom": "Yatekomo pollo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Ceba fregida",
