@@ -690,9 +690,9 @@
       },
       {
         "nom": "Massa pizza",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Llet civada",
