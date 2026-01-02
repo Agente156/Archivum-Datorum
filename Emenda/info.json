@@ -210,9 +210,9 @@
       },
       {
         "nom": "Llet semi",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Llet sencera",
