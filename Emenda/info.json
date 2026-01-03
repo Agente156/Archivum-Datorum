@@ -774,7 +774,7 @@
       },
       {
         "nom": "Rosa mosqueta",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
