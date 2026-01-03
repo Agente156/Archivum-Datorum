@@ -780,7 +780,7 @@
       },
       {
         "nom": "Formatge cremós",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       }
