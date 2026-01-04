@@ -819,7 +819,7 @@
       },
       {
         "nom": "Tomàquet rosa",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Tomàquets",
         "quantitat": 0
       },
