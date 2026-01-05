@@ -1280,7 +1280,7 @@
       },
       {
         "nom": "Patates xips",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Per Picar",
         "quantitat": 0
       },
