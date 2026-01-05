@@ -1283,6 +1283,12 @@
         "marcat": true,
         "categoria": "Per Picar",
         "quantitat": 0
+      },
+      {
+        "nom": "Olives farcides poca sal",
+        "marcat": false,
+        "categoria": "Per Picar",
+        "quantitat": 0
       }
     ]
   },
