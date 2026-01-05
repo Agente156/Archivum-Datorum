@@ -1283,6 +1283,12 @@
         "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Patates xips",
+        "marcat": false,
+        "categoria": "Per Picar",
+        "quantitat": 0
       }
     ]
   },
