@@ -1292,7 +1292,7 @@
       },
       {
         "nom": "Sèpia",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Peix",
         "quantitat": 0
       }
