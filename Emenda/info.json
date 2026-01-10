@@ -1289,6 +1289,12 @@
         "marcat": false,
         "categoria": "Per Picar",
         "quantitat": 0
+      },
+      {
+        "nom": "Sèpia",
+        "marcat": false,
+        "categoria": "Peix",
+        "quantitat": 0
       }
     ]
   },
