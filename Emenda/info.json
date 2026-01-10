@@ -1586,7 +1586,7 @@
       },
       {
         "nom": "Xampú herbal anticaspa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1598,7 +1598,7 @@
       },
       {
         "nom": "Oli rosa mosqueta",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
