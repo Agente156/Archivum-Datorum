@@ -618,7 +618,7 @@
       },
       {
         "nom": "Patates xips",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -630,7 +630,7 @@
       },
       {
         "nom": "Pa Motlle 🍞",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
