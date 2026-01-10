@@ -270,7 +270,7 @@
       },
       {
         "nom": "Mantega",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
