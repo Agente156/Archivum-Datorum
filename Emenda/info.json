@@ -600,7 +600,7 @@
       },
       {
         "nom": "Gotes xocolata",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Xocolata",
         "quantitat": 0
       },
