@@ -780,7 +780,7 @@
       },
       {
         "nom": "Caldo Peix",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       }
