@@ -1283,6 +1283,12 @@
         "marcat": true,
         "categoria": "Peix",
         "quantitat": 0
+      },
+      {
+        "nom": "Formatge bocata calent",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
