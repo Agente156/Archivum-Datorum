@@ -714,7 +714,7 @@
       },
       {
         "nom": "Pimenton picant",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
