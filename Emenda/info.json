@@ -234,7 +234,7 @@
       },
       {
         "nom": "Iogurts grecs naturals 0,0%",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
