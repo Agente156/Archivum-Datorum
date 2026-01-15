@@ -666,7 +666,7 @@
       },
       {
         "nom": "Vinagre de mòdena",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
