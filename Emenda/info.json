@@ -1388,7 +1388,7 @@
       },
       {
         "nom": "Pomes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1418,7 +1418,7 @@
       },
       {
         "nom": "Gall d'indi",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
