@@ -138,7 +138,7 @@
       },
       {
         "nom": "Pebre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
@@ -666,7 +666,7 @@
       },
       {
         "nom": "Vinagre de mòdena",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
@@ -714,7 +714,7 @@
       },
       {
         "nom": "Pimenton picant",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
