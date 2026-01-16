@@ -777,6 +777,12 @@
         "marcat": true,
         "categoria": "Carn i Peix",
         "quantitat": 0
+      },
+      {
+        "nom": "Pomes fuji",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
