@@ -1418,7 +1418,7 @@
       },
       {
         "nom": "Gall d'indi",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
