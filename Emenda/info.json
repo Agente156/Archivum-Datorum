@@ -1016,7 +1016,7 @@
       },
       {
         "nom": "Gall dindi",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1040,7 +1040,7 @@
       },
       {
         "nom": "Salsitxes de l'era",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1190,7 +1190,7 @@
       },
       {
         "nom": "Pa motlle",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1292,19 +1292,13 @@
       },
       {
         "nom": "Pa ratllat",
-        "marcat": true,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Mandarines",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Eko",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
