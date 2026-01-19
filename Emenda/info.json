@@ -1687,25 +1687,25 @@
       },
       {
         "nom": "Roba interior + mitjons",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Roba",
         "quantitat": 0
       },
       {
         "nom": "Gorra",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Roba",
         "quantitat": 0
       },
       {
         "nom": "Xubasquero",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Roba",
         "quantitat": 0
       },
       {
         "nom": "Polar",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Roba",
         "quantitat": 0
       },
