@@ -1675,13 +1675,13 @@
       },
       {
         "nom": "Samarretes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Roba",
         "quantitat": 0
       },
       {
         "nom": "Pantalons",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Roba",
         "quantitat": 0
       },
