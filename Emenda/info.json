@@ -1711,7 +1711,7 @@
       },
       {
         "nom": "Pantalons esport",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Roba",
         "quantitat": 0
       },
@@ -1747,13 +1747,13 @@
       },
       {
         "nom": "Neceser",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
       {
         "nom": "Pastilles",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
@@ -1765,7 +1765,7 @@
       },
       {
         "nom": "Pijama",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Roba",
         "quantitat": 0
       }
