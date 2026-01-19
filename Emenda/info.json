@@ -1645,7 +1645,7 @@
     "productes": [
       {
         "nom": "C-pap",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1663,13 +1663,13 @@
       },
       {
         "nom": "Carregadors",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
       {
         "nom": "Allargo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
@@ -1717,31 +1717,31 @@
       },
       {
         "nom": "Bateria portàtil",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
       {
         "nom": "Ordinador",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
       {
         "nom": "Llanterna",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
       {
         "nom": "Piles",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
       {
         "nom": "Auriculars",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
@@ -1759,7 +1759,7 @@
       },
       {
         "nom": "Bosses brossa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
