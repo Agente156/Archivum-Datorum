@@ -306,13 +306,13 @@
       },
       {
         "nom": "Iceberg 🥗",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
       {
         "nom": "Enciam romana",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
