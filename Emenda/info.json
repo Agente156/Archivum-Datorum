@@ -843,7 +843,7 @@
       },
       {
         "nom": "Xampinyons",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -903,7 +903,7 @@
       },
       {
         "nom": "Bròquil",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -927,7 +927,7 @@
       },
       {
         "nom": "Col",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
