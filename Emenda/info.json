@@ -945,7 +945,7 @@
       },
       {
         "nom": "Mandarines 🍊",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
