@@ -825,7 +825,7 @@
       },
       {
         "nom": "Tomàquet rosa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Tomàquets",
         "quantitat": 0
       },
@@ -969,13 +969,13 @@
       },
       {
         "nom": "Pebrot verd",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Cereals xocolata",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
