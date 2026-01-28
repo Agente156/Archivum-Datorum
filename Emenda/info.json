@@ -294,7 +294,7 @@
       },
       {
         "nom": "Tonyina",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
