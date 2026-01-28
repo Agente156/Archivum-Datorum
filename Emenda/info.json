@@ -372,7 +372,7 @@
       },
       {
         "nom": "Paper vàter",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
@@ -384,7 +384,7 @@
       },
       {
         "nom": "Kleenex capsa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
