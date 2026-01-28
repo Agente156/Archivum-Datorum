@@ -951,13 +951,13 @@
       },
       {
         "nom": "Nap",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Xirivia",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
