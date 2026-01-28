@@ -342,7 +342,7 @@
       },
       {
         "nom": "Ametlla ratllada",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
