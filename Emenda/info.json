@@ -1358,7 +1358,7 @@
     "productes": [
       {
         "nom": "Ous",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Proteïnes",
         "quantitat": 0
       },
