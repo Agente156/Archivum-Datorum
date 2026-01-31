@@ -1553,7 +1553,7 @@
       },
       {
         "nom": "Carn picada",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1571,7 +1571,7 @@
       },
       {
         "nom": "Costella porc",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
