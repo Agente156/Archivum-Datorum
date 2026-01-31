@@ -1136,9 +1136,9 @@
       },
       {
         "nom": "Lluç",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Peix",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Tomàquet triturat",
