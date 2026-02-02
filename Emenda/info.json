@@ -474,7 +474,7 @@
       },
       {
         "nom": "Vinagre neteja",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       },
