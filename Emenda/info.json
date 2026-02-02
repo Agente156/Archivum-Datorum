@@ -516,7 +516,7 @@
       },
       {
         "nom": "Pistatxo natural",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
