@@ -312,7 +312,7 @@
       },
       {
         "nom": "Enciam romana",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
