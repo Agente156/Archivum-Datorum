@@ -156,13 +156,13 @@
       },
       {
         "nom": "Farina espelta",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
       {
         "nom": "Farina ametlla",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
@@ -624,7 +624,7 @@
       },
       {
         "nom": "Pa Motlle 🍞",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
