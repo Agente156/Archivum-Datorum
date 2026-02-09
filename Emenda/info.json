@@ -360,7 +360,7 @@
       },
       {
         "nom": "Xocolata amb llet",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Xocolata",
         "quantitat": 0
       },
