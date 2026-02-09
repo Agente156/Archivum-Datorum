@@ -768,7 +768,7 @@
       },
       {
         "nom": "Formatge havarti ligth",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
