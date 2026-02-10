@@ -1130,7 +1130,7 @@
       },
       {
         "nom": "Gambes",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Peix",
         "quantitat": 0
       },
