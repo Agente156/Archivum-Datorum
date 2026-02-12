@@ -774,7 +774,7 @@
       },
       {
         "nom": "Pollastre x caldo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
