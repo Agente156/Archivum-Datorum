@@ -624,7 +624,7 @@
       },
       {
         "nom": "Pa Motlle 🍞",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
