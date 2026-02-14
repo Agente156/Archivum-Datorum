@@ -276,7 +276,7 @@
       },
       {
         "nom": "Pernil salat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
@@ -774,7 +774,7 @@
       },
       {
         "nom": "Pollastre x caldo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
