@@ -162,7 +162,7 @@
       },
       {
         "nom": "Farina ametlla",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
@@ -570,7 +570,7 @@
       },
       {
         "nom": "Caldo Pollastre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
