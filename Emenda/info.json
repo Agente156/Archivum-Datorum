@@ -1148,7 +1148,7 @@
       },
       {
         "nom": "Lluç",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Peix",
         "quantitat": 0
       },
@@ -1298,7 +1298,7 @@
       },
       {
         "nom": "Cacaolat en pols",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
