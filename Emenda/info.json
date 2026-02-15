@@ -222,7 +222,7 @@
       },
       {
         "nom": "Llet arròs i avellanes",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -618,7 +618,7 @@
       },
       {
         "nom": "Avena",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
@@ -672,13 +672,13 @@
       },
       {
         "nom": "Cigrons pedrosillano",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
       {
         "nom": "Formatge Burgos",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -690,7 +690,7 @@
       },
       {
         "nom": "Llet civada",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -786,6 +786,12 @@
       },
       {
         "nom": "Biscof",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
+      },
+      {
+        "nom": "Cacau pur",
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
