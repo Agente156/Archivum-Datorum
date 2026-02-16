@@ -855,7 +855,7 @@
       },
       {
         "nom": "Plàtans",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita",
         "quantitat": 0
       },
