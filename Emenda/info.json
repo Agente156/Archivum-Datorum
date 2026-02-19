@@ -516,7 +516,7 @@
       },
       {
         "nom": "Pistatxo natural",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
@@ -630,7 +630,7 @@
       },
       {
         "nom": "Pa torrat FIBRA & SESAMO",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
