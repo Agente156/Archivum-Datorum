@@ -903,7 +903,7 @@
       },
       {
         "nom": "Carbassó",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
