@@ -1304,7 +1304,7 @@
       },
       {
         "nom": "Sardines en llauna",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
