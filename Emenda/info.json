@@ -1142,7 +1142,7 @@
       },
       {
         "nom": "Mozzarella pizza",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
