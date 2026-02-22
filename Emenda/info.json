@@ -831,7 +831,7 @@
       },
       {
         "nom": "Kiwis",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita",
         "quantitat": 0
       },
@@ -867,7 +867,7 @@
       },
       {
         "nom": "Pastanaga",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -879,7 +879,7 @@
       },
       {
         "nom": "Bròquil",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -951,7 +951,7 @@
       },
       {
         "nom": "Pebrot verd",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1334,7 +1334,7 @@
     "productes": [
       {
         "nom": "Ous",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Proteïnes",
         "quantitat": 0
       },
