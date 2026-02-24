@@ -1382,7 +1382,7 @@
       },
       {
         "nom": "Pollastre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1400,13 +1400,13 @@
       },
       {
         "nom": "Mozzarella",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Patates",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
