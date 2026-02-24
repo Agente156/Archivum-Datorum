@@ -1406,7 +1406,7 @@
       },
       {
         "nom": "Patates",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
