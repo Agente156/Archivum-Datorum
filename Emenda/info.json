@@ -765,6 +765,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Coco ratllat",
+        "marcat": true,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
