@@ -246,7 +246,7 @@
       },
       {
         "nom": "Formatge burrata",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
