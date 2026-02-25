@@ -360,13 +360,13 @@
       },
       {
         "nom": "Paper vàter",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
       {
         "nom": "Paper cel",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
