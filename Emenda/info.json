@@ -342,7 +342,7 @@
       },
       {
         "nom": "Bosses brossa",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       },
