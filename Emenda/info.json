@@ -342,7 +342,7 @@
       },
       {
         "nom": "Bosses brossa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
       },
@@ -576,7 +576,7 @@
       },
       {
         "nom": "Cereals xocolata",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Xocolata",
         "quantitat": 0
       },
