@@ -1298,7 +1298,7 @@
       },
       {
         "nom": "Sabó rentavaixelles",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
