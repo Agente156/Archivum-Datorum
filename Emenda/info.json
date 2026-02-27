@@ -1010,7 +1010,7 @@
     "productes": [
       {
         "nom": "Xurrasco",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn",
         "quantitat": 0
       },
