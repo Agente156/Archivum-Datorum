@@ -1304,7 +1304,7 @@
       },
       {
         "nom": "Nata X cuinar",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
