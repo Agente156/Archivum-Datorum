@@ -90,9 +90,9 @@
       },
       {
         "nom": "Cafè hacendado natural ☕",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
-        "quantitat": 3
+        "quantitat": 0
       },
       {
         "nom": "Cafè descafeïnat",
