@@ -1028,7 +1028,7 @@
       },
       {
         "nom": "Gall dindi",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
