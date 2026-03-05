@@ -720,7 +720,7 @@
       },
       {
         "nom": "Iogurt Alpro coco",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
