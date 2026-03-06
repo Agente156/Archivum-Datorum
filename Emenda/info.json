@@ -156,7 +156,7 @@
       },
       {
         "nom": "Farina ametlla",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
