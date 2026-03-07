@@ -1322,7 +1322,7 @@
       },
       {
         "nom": "Xips oli d'oliva",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
