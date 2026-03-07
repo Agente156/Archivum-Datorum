@@ -891,7 +891,7 @@
       },
       {
         "nom": "Carbassó",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -909,7 +909,7 @@
       },
       {
         "nom": "Ceba dolça",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
