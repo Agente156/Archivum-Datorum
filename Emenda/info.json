@@ -1325,6 +1325,12 @@
         "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Fuet",
+        "marcat": false,
+        "categoria": "Carn",
+        "quantitat": 0
       }
     ]
   },
