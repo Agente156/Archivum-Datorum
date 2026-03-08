@@ -1664,7 +1664,7 @@
       },
       {
         "nom": "Crema hidratant",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
