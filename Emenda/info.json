@@ -1877,5 +1877,15 @@
         "quantitat": 0
       }
     ]
+  },
+  {
+    "nomLlista": "PA",
+    "categories": [
+      [
+        "Altres",
+        "rgb(236, 236, 236)"
+      ]
+    ],
+    "productes": []
   }
 ]
