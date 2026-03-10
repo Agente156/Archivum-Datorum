@@ -1325,6 +1325,12 @@
         "marcat": false,
         "categoria": "Per Picar",
         "quantitat": 0
+      },
+      {
+        "nom": "All congelat",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
