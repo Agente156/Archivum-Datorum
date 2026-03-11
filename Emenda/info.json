@@ -1190,7 +1190,7 @@
       },
       {
         "nom": "Pa motlle",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
