@@ -1331,6 +1331,12 @@
         "marcat": false,
         "categoria": "Per Picar",
         "quantitat": 0
+      },
+      {
+        "nom": "Curry",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
