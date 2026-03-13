@@ -60,13 +60,13 @@
       },
       {
         "nom": "Gazpacho",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Salmorejo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -294,13 +294,13 @@
       },
       {
         "nom": "Iceberg 🥗",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
       {
         "nom": "Enciam romana",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -726,7 +726,7 @@
       },
       {
         "nom": "Formatge havarti ligth",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -1577,7 +1577,7 @@
       },
       {
         "nom": "Carn picada",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
