@@ -1382,7 +1382,7 @@
     "productes": [
       {
         "nom": "Ous",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Proteïnes",
         "quantitat": 0
       },
@@ -1400,7 +1400,7 @@
       },
       {
         "nom": "Formatge Burgos",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1412,7 +1412,7 @@
       },
       {
         "nom": "All congelat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
