@@ -786,7 +786,7 @@
       },
       {
         "nom": "Sabó neutre terra",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       }
