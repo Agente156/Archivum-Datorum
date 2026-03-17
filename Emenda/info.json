@@ -228,9 +228,9 @@
       },
       {
         "nom": "Formatge",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Formatge pizza",
