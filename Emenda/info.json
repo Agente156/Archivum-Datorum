@@ -780,7 +780,7 @@
       },
       {
         "nom": "Bosses congelador",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       }
