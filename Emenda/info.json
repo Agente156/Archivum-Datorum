@@ -1913,7 +1913,7 @@
       },
       {
         "nom": "Pa de blat de moro",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
