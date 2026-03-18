@@ -837,7 +837,7 @@
       },
       {
         "nom": "Pomes golden",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pomes",
         "quantitat": 0
       },
@@ -897,7 +897,7 @@
       },
       {
         "nom": "Carbassó",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
