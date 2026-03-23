@@ -1412,7 +1412,7 @@
       },
       {
         "nom": "Iogurt Alpro coco",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
