@@ -1412,7 +1412,7 @@
       },
       {
         "nom": "Iogurt Alpro coco",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1424,7 +1424,7 @@
       },
       {
         "nom": "Cottage",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
