@@ -366,7 +366,7 @@
       },
       {
         "nom": "Kleenex capsa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
@@ -558,7 +558,7 @@
       },
       {
         "nom": "Pipes carbassa natural sense sal",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
