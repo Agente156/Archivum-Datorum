@@ -216,7 +216,7 @@
       },
       {
         "nom": "Iogurts naturals",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -252,7 +252,7 @@
       },
       {
         "nom": "Mantega",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -420,7 +420,7 @@
       },
       {
         "nom": "Baietes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
       },
@@ -708,7 +708,7 @@
       },
       {
         "nom": "Iogurt Alpro coco",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
