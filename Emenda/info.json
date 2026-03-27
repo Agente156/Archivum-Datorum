@@ -198,13 +198,13 @@
       },
       {
         "nom": "Llet semi",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
       {
         "nom": "Llet sencera",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
