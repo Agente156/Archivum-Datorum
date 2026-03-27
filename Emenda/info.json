@@ -825,7 +825,7 @@
       },
       {
         "nom": "Pomes golden",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Pomes",
         "quantitat": 0
       },
