@@ -1052,7 +1052,7 @@
       },
       {
         "nom": "Salsitxes de l'era",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
