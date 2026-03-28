@@ -1016,7 +1016,7 @@
       },
       {
         "nom": "Bistec",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1028,19 +1028,19 @@
       },
       {
         "nom": "Gall dindi",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn",
         "quantitat": 0
       },
       {
         "nom": "Llom",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn",
         "quantitat": 0
       },
       {
         "nom": "Fuet can duran",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1052,7 +1052,7 @@
       },
       {
         "nom": "Salsitxes de l'era",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1136,13 +1136,13 @@
       },
       {
         "nom": "Gambes",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Peix",
         "quantitat": 0
       },
       {
         "nom": "Lluç",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Peix",
         "quantitat": 0
       },
@@ -1154,7 +1154,7 @@
       },
       {
         "nom": "Pèsols",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1196,7 +1196,7 @@
       },
       {
         "nom": "Ous",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
