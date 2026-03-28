@@ -885,7 +885,7 @@
       },
       {
         "nom": "Carbassó",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -969,7 +969,7 @@
       },
       {
         "nom": "Carxofes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
