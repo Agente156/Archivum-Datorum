@@ -1016,7 +1016,7 @@
       },
       {
         "nom": "Bistec",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1142,7 +1142,7 @@
       },
       {
         "nom": "Lluç",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Peix",
         "quantitat": 0
       },
