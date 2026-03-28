@@ -1142,7 +1142,7 @@
       },
       {
         "nom": "Lluç",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Peix",
         "quantitat": 0
       },
@@ -1154,7 +1154,7 @@
       },
       {
         "nom": "Pèsols",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
