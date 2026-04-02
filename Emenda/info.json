@@ -1919,13 +1919,13 @@
     "productes": [
       {
         "nom": "Pa de pagès",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Pa de blat de moro",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
