@@ -780,7 +780,7 @@
       },
       {
         "nom": "Llenties",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
