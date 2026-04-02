@@ -570,7 +570,7 @@
       },
       {
         "nom": "Cereals xocolata",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Xocolata",
         "quantitat": 0
       },
