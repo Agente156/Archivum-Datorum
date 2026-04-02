@@ -792,7 +792,7 @@
       },
       {
         "nom": "Caballa en oli d'oliva",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
       }
