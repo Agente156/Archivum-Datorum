@@ -654,7 +654,7 @@
       },
       {
         "nom": "Cigrons pedrosillano",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
