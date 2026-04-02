@@ -789,6 +789,12 @@
         "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Caballa en oli d'oliva",
+        "marcat": false,
+        "categoria": "Carn i Peix",
+        "quantitat": 0
       }
     ]
   },
