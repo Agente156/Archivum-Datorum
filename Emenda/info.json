@@ -843,7 +843,7 @@
       },
       {
         "nom": "Pomes golden",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pomes",
         "quantitat": 0
       },
@@ -861,7 +861,7 @@
       },
       {
         "nom": "Kiwis",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
