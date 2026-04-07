@@ -348,7 +348,7 @@
       },
       {
         "nom": "Ketchup",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Salses",
         "quantitat": 0
       },
