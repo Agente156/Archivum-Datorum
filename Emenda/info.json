@@ -879,7 +879,7 @@
       },
       {
         "nom": "Alvocat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
@@ -975,7 +975,7 @@
       },
       {
         "nom": "Ceba tendra",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
