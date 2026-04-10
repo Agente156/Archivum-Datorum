@@ -789,6 +789,12 @@
         "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
+      },
+      {
+        "nom": "Pastilles desinfecció",
+        "marcat": false,
+        "categoria": "Neteja",
+        "quantitat": 0
       }
     ]
   },
