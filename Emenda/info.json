@@ -792,7 +792,7 @@
       },
       {
         "nom": "Pastilles desinfecció",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       }
