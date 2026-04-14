@@ -795,6 +795,12 @@
         "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
+      },
+      {
+        "nom": "Iogurt fageda",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
       }
     ]
   },
