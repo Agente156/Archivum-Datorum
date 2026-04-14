@@ -801,6 +801,12 @@
         "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
+      },
+      {
+        "nom": "Truita de patates",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
