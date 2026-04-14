@@ -396,7 +396,7 @@
       },
       {
         "nom": "Paper alumini (x2)",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       },
