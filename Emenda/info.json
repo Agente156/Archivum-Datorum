@@ -78,7 +78,7 @@
       },
       {
         "nom": "Coca-Cola",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
