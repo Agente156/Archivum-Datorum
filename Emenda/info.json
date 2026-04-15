@@ -546,7 +546,7 @@
       },
       {
         "nom": "Caldo Pollastre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
