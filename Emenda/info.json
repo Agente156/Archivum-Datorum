@@ -258,7 +258,7 @@
       },
       {
         "nom": "Nata ligera cocinar",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
