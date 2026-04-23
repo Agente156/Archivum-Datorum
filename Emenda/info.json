@@ -1328,7 +1328,7 @@
       },
       {
         "nom": "Chips oli d'oliva",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Per Picar",
         "quantitat": 0
       },
