@@ -1903,28 +1903,5 @@
         "quantitat": 0
       }
     ]
-  },
-  {
-    "nomLlista": "Forn Passeig",
-    "categories": [
-      [
-        "Altres",
-        "rgb(236, 236, 236)"
-      ]
-    ],
-    "productes": [
-      {
-        "nom": "Pa de pagès",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Pa de blat de moro",
-        "marcat": true,
-        "categoria": "Altres",
-        "quantitat": 0
-      }
-    ]
   }
 ]
