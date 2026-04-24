@@ -1672,7 +1672,7 @@
       },
       {
         "nom": "Xampú herbal anticaspa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
