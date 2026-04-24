@@ -1268,7 +1268,7 @@
       },
       {
         "nom": "Formatge bocata calent",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
