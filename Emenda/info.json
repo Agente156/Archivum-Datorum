@@ -903,15 +903,15 @@
       },
       {
         "nom": "Mongetes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
       {
         "nom": "Pastanaga",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
-        "quantitat": 8
+        "quantitat": 0
       },
       {
         "nom": "Carbassó",
