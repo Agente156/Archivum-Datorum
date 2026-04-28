@@ -780,7 +780,7 @@
       },
       {
         "nom": "Xips de vegetals",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
