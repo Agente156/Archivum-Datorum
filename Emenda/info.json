@@ -1076,7 +1076,7 @@
       },
       {
         "nom": "Salmó",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Peix",
         "quantitat": 0
       },
@@ -1142,7 +1142,7 @@
       },
       {
         "nom": "Lluç",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Peix",
         "quantitat": 0
       },
