@@ -534,13 +534,13 @@
       },
       {
         "nom": "Tomàquet fregit",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Salses",
         "quantitat": 0
       },
       {
         "nom": "Tomàquet triturat llauna",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Salses",
         "quantitat": 0
       },
