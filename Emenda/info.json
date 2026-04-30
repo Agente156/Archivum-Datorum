@@ -534,7 +534,7 @@
       },
       {
         "nom": "Tomàquet fregit",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Salses",
         "quantitat": 0
       },
