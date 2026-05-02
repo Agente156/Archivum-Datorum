@@ -1525,15 +1525,15 @@
       },
       {
         "nom": "Cotage",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Fruita liofilitzada",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Xips de vegetals",
