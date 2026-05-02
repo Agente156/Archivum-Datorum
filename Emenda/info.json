@@ -1524,12 +1524,6 @@
         "quantitat": 0
       },
       {
-        "nom": "Mozzarella pizza",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
         "nom": "Cotage",
         "marcat": true,
         "categoria": "Altres",
