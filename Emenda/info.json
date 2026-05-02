@@ -1531,13 +1531,13 @@
       },
       {
         "nom": "Cotage",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Fruita liofilitzada",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
