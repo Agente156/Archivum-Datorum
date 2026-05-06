@@ -60,7 +60,7 @@
       },
       {
         "nom": "Gazpacho",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -546,7 +546,7 @@
       },
       {
         "nom": "Caldo Pollastre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -618,7 +618,7 @@
       },
       {
         "nom": "Blat de moro llauna",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
