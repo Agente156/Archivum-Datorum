@@ -1376,13 +1376,13 @@
       },
       {
         "nom": "Kleenex individuals",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Crema hidratant",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
