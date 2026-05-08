@@ -867,7 +867,7 @@
       },
       {
         "nom": "Pomes golden",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pomes",
         "quantitat": 0
       },
@@ -927,7 +927,7 @@
       },
       {
         "nom": "Carbassó",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -993,7 +993,7 @@
       },
       {
         "nom": "Ceba tendra",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1005,7 +1005,7 @@
       },
       {
         "nom": "Api",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
