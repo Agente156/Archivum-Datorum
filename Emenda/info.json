@@ -264,13 +264,13 @@
       },
       {
         "nom": "Pernil salat",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
       {
         "nom": "Pernil dolç",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
@@ -294,13 +294,13 @@
       },
       {
         "nom": "Iceberg 🥗",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
       {
         "nom": "Enciam romana",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -348,13 +348,13 @@
       },
       {
         "nom": "Paper vàter",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
       },
       {
         "nom": "Paper cel",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
       },
@@ -516,7 +516,7 @@
       },
       {
         "nom": "Salsa mexicana",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Salses",
         "quantitat": 0
       },
@@ -540,7 +540,7 @@
       },
       {
         "nom": "Tomàquet triturat llauna",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Salses",
         "quantitat": 0
       },
@@ -624,7 +624,7 @@
       },
       {
         "nom": "Neteja ulleres",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       },
