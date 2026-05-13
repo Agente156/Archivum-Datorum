@@ -162,7 +162,7 @@
       },
       {
         "nom": "Arròs",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
@@ -354,7 +354,7 @@
       },
       {
         "nom": "Paper cel",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
@@ -576,7 +576,7 @@
       },
       {
         "nom": "Tortitas mexicanes",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1940,7 +1940,7 @@
       },
       {
         "nom": "Salmó",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
