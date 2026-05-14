@@ -813,6 +813,12 @@
         "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
+      },
+      {
+        "nom": "Patates cuites",
+        "marcat": true,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
