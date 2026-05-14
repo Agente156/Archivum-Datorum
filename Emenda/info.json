@@ -792,7 +792,7 @@
       },
       {
         "nom": "Iogurt fageda",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
