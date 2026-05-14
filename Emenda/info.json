@@ -510,7 +510,7 @@
       },
       {
         "nom": "Salsa mexicana",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Salses",
         "quantitat": 0
       },
@@ -618,7 +618,7 @@
       },
       {
         "nom": "Neteja ulleres",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
       },
