@@ -822,7 +822,7 @@
       },
       {
         "nom": "Tortitas cigrons",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       }
