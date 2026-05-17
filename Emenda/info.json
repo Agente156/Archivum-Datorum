@@ -819,6 +819,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Tortitas cigrons",
+        "marcat": false,
+        "categoria": "Pasta i Arròs",
+        "quantitat": 0
       }
     ]
   },
