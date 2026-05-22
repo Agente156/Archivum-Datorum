@@ -294,7 +294,7 @@
       },
       {
         "nom": "Iceberg 🥗",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -354,7 +354,7 @@
       },
       {
         "nom": "Paper cel",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
@@ -486,7 +486,7 @@
       },
       {
         "nom": "Pistatxo natural",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
