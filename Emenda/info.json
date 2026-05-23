@@ -885,7 +885,7 @@
       },
       {
         "nom": "Kiwis",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
@@ -909,19 +909,19 @@
       },
       {
         "nom": "Patates monalisa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
       {
         "nom": "Mongetes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
       {
         "nom": "Pastanaga",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
