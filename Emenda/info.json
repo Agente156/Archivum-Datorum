@@ -54,7 +54,7 @@
     "productes": [
       {
         "nom": "Aigua bronchales",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -90,13 +90,13 @@
       },
       {
         "nom": "Cafè hacendado natural ☕",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Cafè descafeïnat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -126,7 +126,7 @@
       },
       {
         "nom": "Pebre",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
@@ -198,7 +198,7 @@
       },
       {
         "nom": "Llet semi",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -212,11 +212,11 @@
         "nom": "Llet arròs i avellanes",
         "marcat": true,
         "categoria": "Làctics",
-        "quantitat": 4
+        "quantitat": 0
       },
       {
         "nom": "Iogurts naturals",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -662,7 +662,7 @@
         "nom": "Llet civada",
         "marcat": true,
         "categoria": "Làctics",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Macarrons",
@@ -714,7 +714,7 @@
       },
       {
         "nom": "Formatge havarti ligth",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -822,7 +822,7 @@
       },
       {
         "nom": "Nata",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
