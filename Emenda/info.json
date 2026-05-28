@@ -885,7 +885,7 @@
       },
       {
         "nom": "Plàtans",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
@@ -903,7 +903,7 @@
       },
       {
         "nom": "Llimones",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruita",
         "quantitat": 0
       },
