@@ -54,7 +54,7 @@
     "productes": [
       {
         "nom": "Aigua bronchales",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -126,7 +126,7 @@
       },
       {
         "nom": "Pebre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
@@ -198,7 +198,7 @@
       },
       {
         "nom": "Llet semi",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -212,11 +212,11 @@
         "nom": "Llet arròs i avellanes",
         "marcat": true,
         "categoria": "Làctics",
-        "quantitat": 0
+        "quantitat": 4
       },
       {
         "nom": "Iogurts naturals",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -662,7 +662,7 @@
         "nom": "Llet civada",
         "marcat": true,
         "categoria": "Làctics",
-        "quantitat": 0
+        "quantitat": 2
       },
       {
         "nom": "Macarrons",
@@ -714,7 +714,7 @@
       },
       {
         "nom": "Formatge havarti ligth",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -822,7 +822,7 @@
       },
       {
         "nom": "Nata",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
