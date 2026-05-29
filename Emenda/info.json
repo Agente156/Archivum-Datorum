@@ -828,7 +828,7 @@
       },
       {
         "nom": "Préssec en almívar",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
