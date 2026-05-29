@@ -825,6 +825,12 @@
         "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Llet desnatada",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
