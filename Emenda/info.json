@@ -822,9 +822,9 @@
       },
       {
         "nom": "Llet desnatada",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Préssec en almívar",
