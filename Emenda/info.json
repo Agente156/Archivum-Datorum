@@ -821,12 +821,6 @@
         "quantitat": 0
       },
       {
-        "nom": "Iogurts desnatats",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
         "nom": "Llet desnatada",
         "marcat": true,
         "categoria": "Altres",
