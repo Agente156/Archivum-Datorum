@@ -819,6 +819,12 @@
         "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Iogurts desnatats",
+        "marcat": true,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
