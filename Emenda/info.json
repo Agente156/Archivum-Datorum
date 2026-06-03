@@ -849,6 +849,12 @@
         "marcat": true,
         "categoria": "Altres",
         "quantitat": 2
+      },
+      {
+        "nom": "Laca",
+        "marcat": false,
+        "categoria": "Neteja",
+        "quantitat": 0
       }
     ]
   },
