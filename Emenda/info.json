@@ -1567,7 +1567,7 @@
     "productes": [
       {
         "nom": "Xocolata 🍫",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1597,7 +1597,7 @@
       },
       {
         "nom": "Xips de vegetals",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
