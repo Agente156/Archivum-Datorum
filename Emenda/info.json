@@ -426,7 +426,7 @@
       },
       {
         "nom": "Lleixiu estrella pino",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       },
