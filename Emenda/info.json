@@ -324,7 +324,7 @@
       },
       {
         "nom": "Gilette",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
       },
