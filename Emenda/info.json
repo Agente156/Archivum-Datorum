@@ -246,7 +246,7 @@
       },
       {
         "nom": "Formatge grana padano en pols",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -642,7 +642,7 @@
       },
       {
         "nom": "Formatge Burgos",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
