@@ -852,7 +852,7 @@
       },
       {
         "nom": "Vinagre sense filtrar",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
