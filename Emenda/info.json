@@ -234,7 +234,7 @@
       },
       {
         "nom": "Formatge pizza",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -264,7 +264,7 @@
       },
       {
         "nom": "Pernil salat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
@@ -852,7 +852,7 @@
       },
       {
         "nom": "Vinagre sense filtrar",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
