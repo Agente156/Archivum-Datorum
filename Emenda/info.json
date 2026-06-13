@@ -1973,6 +1973,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Gambes",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   }
