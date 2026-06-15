@@ -60,9 +60,9 @@
       },
       {
         "nom": "Gazpacho",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Salmorejo",
@@ -606,7 +606,7 @@
       },
       {
         "nom": "Blat de moro llauna",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
