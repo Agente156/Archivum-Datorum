@@ -1099,12 +1099,6 @@
         "quantitat": 0
       },
       {
-        "nom": "Llom",
-        "marcat": false,
-        "categoria": "Carn",
-        "quantitat": 0
-      },
-      {
         "nom": "Fuet can duran",
         "marcat": true,
         "categoria": "Carn",
