@@ -720,7 +720,7 @@
       },
       {
         "nom": "Llevat pa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
