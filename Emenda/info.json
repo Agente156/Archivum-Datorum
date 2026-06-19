@@ -234,9 +234,9 @@
       },
       {
         "nom": "Formatge pizza",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
-        "quantitat": 0
+        "quantitat": 1
       },
       {
         "nom": "Formatge burrata",
