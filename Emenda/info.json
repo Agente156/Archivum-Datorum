@@ -642,9 +642,9 @@
       },
       {
         "nom": "Formatge Burgos",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
-        "quantitat": 1
+        "quantitat": 0
       },
       {
         "nom": "Massa pizza",
@@ -858,13 +858,13 @@
       },
       {
         "nom": "Ametlla laminada",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
       {
         "nom": "Anís",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       }
