@@ -903,13 +903,13 @@
       },
       {
         "nom": "Tomàquet rosa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Tomàquets",
         "quantitat": 0
       },
       {
         "nom": "Pomes golden",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pomes",
         "quantitat": 0
       },
@@ -963,9 +963,9 @@
       },
       {
         "nom": "Pastanaga",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
-        "quantitat": 6
+        "quantitat": 0
       },
       {
         "nom": "Carbassó",
