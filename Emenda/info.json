@@ -656,7 +656,7 @@
         "nom": "Llet civada",
         "marcat": true,
         "categoria": "Làctics",
-        "quantitat": 0
+        "quantitat": 3
       },
       {
         "nom": "Macarrons",
@@ -822,12 +822,6 @@
       },
       {
         "nom": "Llet desnatada",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Carloteña",
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
