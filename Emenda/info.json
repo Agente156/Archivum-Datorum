@@ -738,7 +738,7 @@
       },
       {
         "nom": "Sabó rentavaixelles",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       },
