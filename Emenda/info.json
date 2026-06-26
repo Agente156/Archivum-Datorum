@@ -1591,7 +1591,7 @@
       },
       {
         "nom": "Galetes gelat",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
