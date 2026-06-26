@@ -933,7 +933,7 @@
       },
       {
         "nom": "Llimones",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita",
         "quantitat": 0
       },
