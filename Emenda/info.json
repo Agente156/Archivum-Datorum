@@ -198,7 +198,7 @@
       },
       {
         "nom": "Llet semi",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
