@@ -204,7 +204,7 @@
       },
       {
         "nom": "Llet sencera",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
