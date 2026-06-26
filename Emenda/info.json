@@ -738,7 +738,7 @@
       },
       {
         "nom": "Sabó rentavaixelles",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       },
@@ -1166,7 +1166,7 @@
       },
       {
         "nom": "Gaspatxo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1555,7 +1555,7 @@
       },
       {
         "nom": "Pernil dolç",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1586,6 +1586,12 @@
       {
         "nom": "Biscof",
         "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
+      },
+      {
+        "nom": "Galetes gelat",
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
