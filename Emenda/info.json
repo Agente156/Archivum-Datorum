@@ -654,9 +654,9 @@
       },
       {
         "nom": "Llet civada",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
-        "quantitat": 5
+        "quantitat": 0
       },
       {
         "nom": "Macarrons",
