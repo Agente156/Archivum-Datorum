@@ -1041,7 +1041,7 @@
       },
       {
         "nom": "Cogombre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
