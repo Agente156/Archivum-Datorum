@@ -1076,7 +1076,7 @@
       },
       {
         "nom": "Bistec",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1196,7 +1196,7 @@
       },
       {
         "nom": "Tomàquet triturat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1232,7 +1232,7 @@
       },
       {
         "nom": "Pa motlle",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1280,7 +1280,7 @@
       },
       {
         "nom": "Iogurts Danone naturals",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1352,7 +1352,7 @@
       },
       {
         "nom": "Tires pernil",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
