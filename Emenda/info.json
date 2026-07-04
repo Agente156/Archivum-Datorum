@@ -1112,7 +1112,7 @@
       },
       {
         "nom": "Fuet can duran",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1448,7 +1448,7 @@
       },
       {
         "nom": "Pastilles rentavaixelles",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
