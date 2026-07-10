@@ -909,7 +909,7 @@
       },
       {
         "nom": "Tomàquet rosa",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Tomàquets",
         "quantitat": 0
       },
@@ -927,7 +927,7 @@
       },
       {
         "nom": "Plàtans",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita",
         "quantitat": 0
       },
@@ -969,7 +969,7 @@
       },
       {
         "nom": "Pastanaga",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
