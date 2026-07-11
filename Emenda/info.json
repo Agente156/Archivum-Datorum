@@ -1075,12 +1075,6 @@
     ],
     "productes": [
       {
-        "nom": "Xurrasco",
-        "marcat": false,
-        "categoria": "Carn",
-        "quantitat": 0
-      },
-      {
         "nom": "Bistec",
         "marcat": false,
         "categoria": "Carn",
@@ -1424,12 +1418,6 @@
       },
       {
         "nom": "Arròs",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Pastilles rentavaixelles",
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
