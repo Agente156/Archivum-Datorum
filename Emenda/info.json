@@ -210,9 +210,9 @@
       },
       {
         "nom": "Llet arròs i avellanes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
-        "quantitat": 3
+        "quantitat": 0
       },
       {
         "nom": "Iogurts naturals",
@@ -552,7 +552,7 @@
       },
       {
         "nom": "Cereals xocolata",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Xocolata",
         "quantitat": 0
       },
