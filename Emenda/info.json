@@ -1435,12 +1435,6 @@
         "quantitat": 0
       },
       {
-        "nom": "Carbó",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
         "nom": "Llom",
         "marcat": true,
         "categoria": "Carn",
