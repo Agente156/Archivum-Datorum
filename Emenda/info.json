@@ -480,7 +480,7 @@
       },
       {
         "nom": "Pistatxo natural",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
@@ -618,7 +618,7 @@
       },
       {
         "nom": "Sabó roba marsella",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
       },
@@ -672,7 +672,7 @@
       },
       {
         "nom": "Nous",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
