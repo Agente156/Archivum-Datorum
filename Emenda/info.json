@@ -540,7 +540,7 @@
       },
       {
         "nom": "Pipes carbassa natural sense sal",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
@@ -804,7 +804,7 @@
       },
       {
         "nom": "Nata",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
