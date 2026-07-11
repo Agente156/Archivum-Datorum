@@ -897,7 +897,7 @@
       },
       {
         "nom": "Tomàquet rosa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Tomàquets",
         "quantitat": 0
       },
@@ -957,7 +957,7 @@
       },
       {
         "nom": "Pastanaga",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -969,7 +969,7 @@
       },
       {
         "nom": "Bròquil",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
