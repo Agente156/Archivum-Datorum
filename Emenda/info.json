@@ -54,7 +54,7 @@
     "productes": [
       {
         "nom": "Aigua bronchales",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -198,13 +198,13 @@
       },
       {
         "nom": "Llet semi",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
       {
         "nom": "Llet sencera",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -852,7 +852,7 @@
       },
       {
         "nom": "Birra",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -1202,7 +1202,7 @@
       },
       {
         "nom": "Tomàquet triturat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1453,7 +1453,7 @@
     "productes": [
       {
         "nom": "Pollastre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1496,7 +1496,7 @@
     "productes": [
       {
         "nom": "Ous",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Proteïnes",
         "quantitat": 0
       },
@@ -1773,7 +1773,13 @@
         "quantitat": 0
       },
       {
-        "nom": "Condicionador cabell",
+        "nom": "Acondicionador cabell",
+        "marcat": true,
+        "categoria": "Altres",
+        "quantitat": 0
+      },
+      {
+        "nom": "Protector cabell",
         "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
