@@ -1424,7 +1424,7 @@
       },
       {
         "nom": "Iogurt Alprococo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
