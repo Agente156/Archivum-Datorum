@@ -396,7 +396,7 @@
       },
       {
         "nom": "Paper forn",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       },
