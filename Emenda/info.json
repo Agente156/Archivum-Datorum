@@ -54,13 +54,13 @@
     "productes": [
       {
         "nom": "Aigua bronchales",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Gazpacho",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -294,7 +294,7 @@
       },
       {
         "nom": "Iceberg 🥗",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -582,7 +582,7 @@
       },
       {
         "nom": "Avena",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
@@ -810,7 +810,7 @@
       },
       {
         "nom": "Llet desnatada",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
