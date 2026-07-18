@@ -1397,6 +1397,12 @@
         "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
+      },
+      {
+        "nom": "Mostassa",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
