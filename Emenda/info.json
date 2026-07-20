@@ -915,13 +915,13 @@
       },
       {
         "nom": "Alvocat",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita",
         "quantitat": 0
       },
       {
         "nom": "Patates monalisa",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
