@@ -1058,13 +1058,13 @@
       },
       {
         "nom": "Gall dindi",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
       {
         "nom": "Fuet can duran",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1076,7 +1076,7 @@
       },
       {
         "nom": "Frankfurt",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1094,7 +1094,7 @@
       },
       {
         "nom": "Salmó",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Peix",
         "quantitat": 0
       },
@@ -1154,7 +1154,7 @@
       },
       {
         "nom": "Gambes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Peix",
         "quantitat": 0
       },
