@@ -927,7 +927,7 @@
       },
       {
         "nom": "Mongetes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -1005,7 +1005,7 @@
       },
       {
         "nom": "Síndria 🍉",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
