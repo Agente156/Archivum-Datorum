@@ -258,7 +258,7 @@
       },
       {
         "nom": "Pernil salat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
@@ -836,6 +836,12 @@
         "nom": "Oli",
         "marcat": false,
         "categoria": "Bàsics",
+        "quantitat": 0
+      },
+      {
+        "nom": "Bosses escombraries lavabo",
+        "marcat": false,
+        "categoria": "Neteja",
         "quantitat": 0
       }
     ]
