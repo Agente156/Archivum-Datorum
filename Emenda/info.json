@@ -840,7 +840,7 @@
       },
       {
         "nom": "Bosses escombraries lavabo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       }
