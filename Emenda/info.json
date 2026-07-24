@@ -210,7 +210,7 @@
       },
       {
         "nom": "Iogurts naturals",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -288,13 +288,13 @@
       },
       {
         "nom": "Iceberg 🥗",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
       {
         "nom": "Enciam romana",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -354,7 +354,7 @@
       },
       {
         "nom": "Salvaslips EVAX",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
@@ -474,7 +474,7 @@
       },
       {
         "nom": "Pistatxo natural",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
@@ -498,7 +498,7 @@
       },
       {
         "nom": "Salsa mexicana",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Salses",
         "quantitat": 0
       },
@@ -516,7 +516,7 @@
       },
       {
         "nom": "Tomàquet fregit",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Salses",
         "quantitat": 0
       },
@@ -540,7 +540,7 @@
       },
       {
         "nom": "Nutella/Nocilla",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Xocolata",
         "quantitat": 0
       },
@@ -606,7 +606,7 @@
       },
       {
         "nom": "Neteja ulleres",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
       },
@@ -684,7 +684,7 @@
       },
       {
         "nom": "Iogurt Alpro coco",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -792,7 +792,7 @@
       },
       {
         "nom": "Tortitas cigrons",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
@@ -828,7 +828,7 @@
       },
       {
         "nom": "Birra",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -840,7 +840,7 @@
       },
       {
         "nom": "Bosses escombraries lavabo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
       }
