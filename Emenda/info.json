@@ -1732,7 +1732,7 @@
       },
       {
         "nom": "Acondicionador cabell",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
