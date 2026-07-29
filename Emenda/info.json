@@ -843,6 +843,12 @@
         "marcat": false,
         "categoria": "Salses",
         "quantitat": 0
+      },
+      {
+        "nom": "Tofu",
+        "marcat": true,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
