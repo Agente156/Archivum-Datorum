@@ -240,7 +240,7 @@
       },
       {
         "nom": "Formatge grana padano en pols",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
       },
