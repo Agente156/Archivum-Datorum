@@ -1465,12 +1465,6 @@
     ],
     "productes": [
       {
-        "nom": "Ous",
-        "marcat": false,
-        "categoria": "Proteïnes",
-        "quantitat": 0
-      },
-      {
         "nom": "Tovalloletes aigua",
         "marcat": false,
         "categoria": "Altres",
