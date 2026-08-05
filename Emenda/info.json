@@ -1562,59 +1562,6 @@
     ]
   },
   {
-    "nomLlista": "Gasch",
-    "categories": [
-      [
-        "Altres",
-        "rgb(236, 236, 236)"
-      ]
-    ],
-    "productes": [
-      {
-        "nom": "Cansalada",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Pernil",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Formatge",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Llom",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Pernil dolç",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Salsitxes",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Costelles",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      }
-    ]
-  },
-  {
     "nomLlista": "Carnisseria Sales",
     "categories": [
       [
