@@ -804,9 +804,9 @@
       },
       {
         "nom": "Yatekomo Pollo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
-        "quantitat": 0
+        "quantitat": 2
       },
       {
         "nom": "Lli",
