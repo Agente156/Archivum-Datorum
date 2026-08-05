@@ -1951,5 +1951,15 @@
         "quantitat": 0
       }
     ]
+  },
+  {
+    "nomLlista": "Consum",
+    "categories": [
+      [
+        "Altres",
+        "rgb(236, 236, 236)"
+      ]
+    ],
+    "productes": []
   }
 ]
