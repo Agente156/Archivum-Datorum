@@ -1413,41 +1413,6 @@
     ]
   },
   {
-    "nomLlista": "Bon Area",
-    "categories": [
-      [
-        "Altres",
-        "rgb(236, 236, 236)"
-      ]
-    ],
-    "productes": [
-      {
-        "nom": "Pollastre",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Codillo",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Ossos per caldo",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Llom",
-        "marcat": false,
-        "categoria": "Altres",
-        "quantitat": 0
-      }
-    ]
-  },
-  {
     "nomLlista": "LIDL",
     "categories": [
       [
