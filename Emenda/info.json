@@ -837,6 +837,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Frankfurt",
+        "marcat": true,
+        "categoria": "Carn i Peix",
+        "quantitat": 0
       }
     ]
   },
