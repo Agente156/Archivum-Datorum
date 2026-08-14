@@ -510,7 +510,7 @@
       },
       {
         "nom": "Maionesa",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Salses",
         "quantitat": 0
       },
