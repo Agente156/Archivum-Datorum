@@ -510,7 +510,7 @@
       },
       {
         "nom": "Maionesa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Salses",
         "quantitat": 0
       },
@@ -828,7 +828,7 @@
       },
       {
         "nom": "Tabasco Picant",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Salses",
         "quantitat": 0
       },
