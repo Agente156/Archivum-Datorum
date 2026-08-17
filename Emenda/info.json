@@ -843,6 +843,12 @@
         "marcat": true,
         "categoria": "Carn i Peix",
         "quantitat": 0
+      },
+      {
+        "nom": "Gasosa",
+        "marcat": false,
+        "categoria": "Begudes",
+        "quantitat": 0
       }
     ]
   },
