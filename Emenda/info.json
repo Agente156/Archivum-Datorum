@@ -828,7 +828,7 @@
       },
       {
         "nom": "Tabasco Picant",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Salses",
         "quantitat": 0
       },
