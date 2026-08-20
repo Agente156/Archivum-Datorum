@@ -1502,7 +1502,7 @@
     "productes": [
       {
         "nom": "Xocolata 🍫",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1526,7 +1526,7 @@
       },
       {
         "nom": "Fruita liofilitzada",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
