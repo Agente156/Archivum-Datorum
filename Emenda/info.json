@@ -1412,13 +1412,13 @@
       },
       {
         "nom": "Tomàquet pizza",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Pasta de tomàquet",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
