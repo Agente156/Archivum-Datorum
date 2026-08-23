@@ -1697,7 +1697,7 @@
       },
       {
         "nom": "Raqueta elèctrica",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
