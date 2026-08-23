@@ -1775,7 +1775,7 @@
       },
       {
         "nom": "Llanterna",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
