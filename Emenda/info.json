@@ -1733,13 +1733,13 @@
       },
       {
         "nom": "Roba interior + mitjons",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Roba",
         "quantitat": 0
       },
       {
         "nom": "Gorra",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Roba",
         "quantitat": 0
       },
