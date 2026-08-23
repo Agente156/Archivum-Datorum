@@ -1691,7 +1691,7 @@
     "productes": [
       {
         "nom": "C-pap",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
