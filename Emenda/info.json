@@ -1739,7 +1739,7 @@
       },
       {
         "nom": "Gorra",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Roba",
         "quantitat": 0
       },
