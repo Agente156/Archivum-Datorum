@@ -1811,7 +1811,7 @@
       },
       {
         "nom": "Pijama",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Roba",
         "quantitat": 0
       }
