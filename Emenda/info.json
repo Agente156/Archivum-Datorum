@@ -1721,13 +1721,13 @@
       },
       {
         "nom": "Samarretes",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Roba",
         "quantitat": 0
       },
       {
         "nom": "Pantalons",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Roba",
         "quantitat": 0
       },
