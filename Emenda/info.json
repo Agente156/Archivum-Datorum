@@ -1727,13 +1727,13 @@
       },
       {
         "nom": "Pantalons",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Roba",
         "quantitat": 0
       },
       {
         "nom": "Roba interior + mitjons",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Roba",
         "quantitat": 0
       },
