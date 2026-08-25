@@ -810,7 +810,7 @@
       },
       {
         "nom": "Birra",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
