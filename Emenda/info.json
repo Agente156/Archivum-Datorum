@@ -849,6 +849,12 @@
         "marcat": true,
         "categoria": "Begudes",
         "quantitat": 0
+      },
+      {
+        "nom": "Ous",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
