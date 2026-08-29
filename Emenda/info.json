@@ -96,7 +96,7 @@
       },
       {
         "nom": "Cafè descafeïnat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
