@@ -828,7 +828,7 @@
       },
       {
         "nom": "Gasosa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
