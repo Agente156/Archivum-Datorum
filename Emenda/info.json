@@ -1632,7 +1632,7 @@
       },
       {
         "nom": "Xampú Marga",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
