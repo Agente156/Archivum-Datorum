@@ -90,7 +90,7 @@
       },
       {
         "nom": "Cafè hacendado natural ☕",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -162,7 +162,7 @@
       },
       {
         "nom": "Arròs",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
@@ -288,7 +288,7 @@
       },
       {
         "nom": "Enciam romana",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
