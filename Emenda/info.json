@@ -288,7 +288,7 @@
       },
       {
         "nom": "Enciam romana",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -564,7 +564,7 @@
       },
       {
         "nom": "Patates xips",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -666,7 +666,7 @@
       },
       {
         "nom": "Desodorant",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
       },
