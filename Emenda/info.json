@@ -1662,13 +1662,13 @@
       },
       {
         "nom": "Oral B fil dental",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Desodorant sanex",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
