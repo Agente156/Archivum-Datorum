@@ -396,7 +396,7 @@
       },
       {
         "nom": "Baietes petites",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
       },
