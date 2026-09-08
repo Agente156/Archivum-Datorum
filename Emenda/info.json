@@ -873,13 +873,13 @@
       },
       {
         "nom": "Plàtans",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita",
         "quantitat": 0
       },
       {
         "nom": "Kiwis",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita",
         "quantitat": 0
       },
