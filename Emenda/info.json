@@ -828,7 +828,7 @@
       },
       {
         "nom": "Cottage",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       }
