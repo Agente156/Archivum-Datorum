@@ -1470,6 +1470,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Nous",
+        "marcat": false,
+        "categoria": "Altres",
+        "quantitat": 0
       }
     ]
   },
