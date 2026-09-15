@@ -1443,7 +1443,7 @@
       },
       {
         "nom": "Cottage",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1473,7 +1473,7 @@
       },
       {
         "nom": "Nous",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
