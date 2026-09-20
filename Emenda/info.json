@@ -1394,7 +1394,7 @@
       },
       {
         "nom": "Folis DIINA4",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
