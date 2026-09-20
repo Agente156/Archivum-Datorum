@@ -1118,7 +1118,7 @@
       },
       {
         "nom": "Gaspatxo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1388,7 +1388,7 @@
       },
       {
         "nom": "Yatekomo pollastre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
