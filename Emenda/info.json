@@ -1034,7 +1034,7 @@
       },
       {
         "nom": "Gall dindi",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1118,7 +1118,7 @@
       },
       {
         "nom": "Cervesa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1304,7 +1304,7 @@
       },
       {
         "nom": "Ketchup",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
