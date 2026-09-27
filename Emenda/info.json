@@ -49,10 +49,6 @@
       [
         "Neteja",
         "rgb(212, 94, 216)"
-      ],
-      [
-        "Nata cuina",
-        "rgb(253, 216, 53)"
       ]
     ],
     "productes": [
@@ -828,12 +824,6 @@
         "nom": "Tortitas de cigrons",
         "marcat": false,
         "categoria": "Altres",
-        "quantitat": 0
-      },
-      {
-        "nom": "Nata cuina",
-        "marcat": true,
-        "categoria": "Nata cuina",
         "quantitat": 0
       }
     ]
