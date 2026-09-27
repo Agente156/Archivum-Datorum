@@ -829,6 +829,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Nata cuina",
+        "marcat": false,
+        "categoria": "Nata cuina",
+        "quantitat": 0
       }
     ]
   },
