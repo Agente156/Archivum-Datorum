@@ -330,7 +330,7 @@
       },
       {
         "nom": "Paper cel",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
@@ -702,7 +702,7 @@
       },
       {
         "nom": "Datils",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
