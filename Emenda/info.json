@@ -834,7 +834,7 @@
       },
       {
         "nom": "Oxigen actiu",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
       }
