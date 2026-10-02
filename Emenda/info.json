@@ -834,7 +834,7 @@
       },
       {
         "nom": "Oxigen actiu",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
       }
