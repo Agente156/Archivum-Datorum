@@ -1620,13 +1620,13 @@
       },
       {
         "nom": "Xampú herbal anticaspa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Gel sanex",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
