@@ -1543,7 +1543,7 @@
       },
       {
         "nom": "Carn picada",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1567,7 +1567,7 @@
       },
       {
         "nom": "Salsitxes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
