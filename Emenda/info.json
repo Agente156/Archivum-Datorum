@@ -1502,7 +1502,7 @@
     "productes": [
       {
         "nom": "Xocolata 🍫",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1514,7 +1514,7 @@
       },
       {
         "nom": "Pastilles caldo pollastre",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
