@@ -516,9 +516,9 @@
       },
       {
         "nom": "Caldo Pollastre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Pipes carbassa natural sense sal",
