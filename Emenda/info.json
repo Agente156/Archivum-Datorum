@@ -264,7 +264,7 @@
       },
       {
         "nom": "Tonyina",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
@@ -630,7 +630,7 @@
       },
       {
         "nom": "Massa pizza",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
