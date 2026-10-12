@@ -1100,7 +1100,7 @@
       },
       {
         "nom": "Vi negre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
