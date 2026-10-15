@@ -1520,7 +1520,7 @@
       },
       {
         "nom": "Fruita liofilitzada",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
