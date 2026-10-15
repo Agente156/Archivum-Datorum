@@ -1508,7 +1508,7 @@
       },
       {
         "nom": "Pastilles caldo pollastre",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
