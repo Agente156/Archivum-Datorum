@@ -684,7 +684,7 @@
       },
       {
         "nom": "Formatge havarti ligth",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -897,7 +897,7 @@
       },
       {
         "nom": "Kiwis",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita",
         "quantitat": 0
       },
@@ -915,7 +915,7 @@
       },
       {
         "nom": "Patates monalisa",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -927,7 +927,7 @@
       },
       {
         "nom": "Carbassó",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -999,7 +999,7 @@
       },
       {
         "nom": "Porro",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
@@ -1082,7 +1082,7 @@
       },
       {
         "nom": "Xiclets",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1130,7 +1130,7 @@
       },
       {
         "nom": "Gambes",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Peix",
         "quantitat": 0
       },
@@ -1202,7 +1202,7 @@
       },
       {
         "nom": "Civada cuita",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1244,7 +1244,7 @@
       },
       {
         "nom": "Olives farcides poca sal",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Per Picar",
         "quantitat": 0
       },
@@ -1286,7 +1286,7 @@
       },
       {
         "nom": "Tires pernil",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1352,7 +1352,7 @@
       },
       {
         "nom": "Llom",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1400,7 +1400,7 @@
       },
       {
         "nom": "Tahini",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       }
