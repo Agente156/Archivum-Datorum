@@ -246,13 +246,13 @@
       },
       {
         "nom": "Pernil salat",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
       {
         "nom": "Pernil dolç",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
