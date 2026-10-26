@@ -516,7 +516,7 @@
       },
       {
         "nom": "Caldo Pollastre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
@@ -768,13 +768,13 @@
       },
       {
         "nom": "Birra",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       },
       {
         "nom": "Oli oliva verge extra",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
