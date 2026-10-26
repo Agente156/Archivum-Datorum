@@ -774,7 +774,7 @@
       },
       {
         "nom": "Oli oliva verge extra",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Bàsics",
         "quantitat": 0
       },
