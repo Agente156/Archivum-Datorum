@@ -546,7 +546,7 @@
       },
       {
         "nom": "Tortitas mexicanes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -648,7 +648,7 @@
       },
       {
         "nom": "Nous",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
@@ -840,7 +840,7 @@
       },
       {
         "nom": "Olives",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
