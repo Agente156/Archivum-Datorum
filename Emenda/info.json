@@ -1614,7 +1614,7 @@
     "productes": [
       {
         "nom": "Oral B menta suave",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
