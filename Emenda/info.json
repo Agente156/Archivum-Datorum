@@ -1781,7 +1781,7 @@
       },
       {
         "nom": "Bateria portàtil",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Electrònica",
         "quantitat": 0
       },
