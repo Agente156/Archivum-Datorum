@@ -1751,7 +1751,7 @@
       },
       {
         "nom": "Roba interior + mitjons",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Roba",
         "quantitat": 0
       },
