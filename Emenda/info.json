@@ -1709,7 +1709,7 @@
     "productes": [
       {
         "nom": "C-pap",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1805,7 +1805,7 @@
       },
       {
         "nom": "Auriculars",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
