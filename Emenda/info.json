@@ -1811,13 +1811,13 @@
       },
       {
         "nom": "Neceser",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
       },
       {
         "nom": "Pastilles",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
