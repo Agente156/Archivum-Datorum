@@ -1727,7 +1727,7 @@
       },
       {
         "nom": "Carregadors",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Electrònica",
         "quantitat": 0
       },
