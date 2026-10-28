@@ -1787,13 +1787,13 @@
       },
       {
         "nom": "Ordinador",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
       {
         "nom": "Llanterna",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
