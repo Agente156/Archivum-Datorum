@@ -1823,7 +1823,7 @@
       },
       {
         "nom": "Bosses brossa",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Higiene",
         "quantitat": 0
       },
