@@ -1727,13 +1727,13 @@
       },
       {
         "nom": "Carregadors",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
       {
         "nom": "Allargo",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
@@ -1781,7 +1781,7 @@
       },
       {
         "nom": "Bateria portàtil",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Electrònica",
         "quantitat": 0
       },
