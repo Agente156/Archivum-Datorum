@@ -879,13 +879,13 @@
       },
       {
         "nom": "Tomàquet rosa",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Tomàquets",
         "quantitat": 0
       },
       {
         "nom": "Pomes golden",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Pomes",
         "quantitat": 0
       },
@@ -897,7 +897,7 @@
       },
       {
         "nom": "Plàtans",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Fruita",
         "quantitat": 0
       },
