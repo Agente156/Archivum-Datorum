@@ -1034,7 +1034,7 @@
     "productes": [
       {
         "nom": "Bistec",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1052,7 +1052,7 @@
       },
       {
         "nom": "Fuet can duran",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Carn",
         "quantitat": 0
       },
