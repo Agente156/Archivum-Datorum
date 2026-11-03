@@ -849,6 +849,12 @@
         "marcat": true,
         "categoria": "Làctics",
         "quantitat": 0
+      },
+      {
+        "nom": "Descafeïnat Nescafe",
+        "marcat": false,
+        "categoria": "Begudes",
+        "quantitat": 0
       }
     ]
   },
