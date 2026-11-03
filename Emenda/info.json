@@ -843,6 +843,12 @@
         "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
+      },
+      {
+        "nom": "Llet semi",
+        "marcat": false,
+        "categoria": "Làctics",
+        "quantitat": 0
       }
     ]
   },
