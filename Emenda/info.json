@@ -600,7 +600,7 @@
       },
       {
         "nom": "Sabó roba marsella",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Neteja",
         "quantitat": 0
       },
