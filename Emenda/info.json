@@ -1899,7 +1899,7 @@
     "productes": [
       {
         "nom": "Ous",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1911,7 +1911,7 @@
       },
       {
         "nom": "Pollastre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
