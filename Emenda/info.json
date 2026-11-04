@@ -852,7 +852,7 @@
       },
       {
         "nom": "Descafeïnat Nescafe",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
         "quantitat": 0
       }
