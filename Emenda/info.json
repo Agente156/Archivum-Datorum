@@ -1864,7 +1864,7 @@
     "productes": [
       {
         "nom": "Lluç",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1888,7 +1888,7 @@
       },
       {
         "nom": "Salmó",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
