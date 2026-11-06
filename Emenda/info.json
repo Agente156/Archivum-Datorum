@@ -1118,7 +1118,7 @@
       },
       {
         "nom": "Vi negre",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1214,7 +1214,7 @@
       },
       {
         "nom": "Caldo",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1244,7 +1244,7 @@
       },
       {
         "nom": "Caldo peix",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
