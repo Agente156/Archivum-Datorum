@@ -1882,7 +1882,7 @@
       },
       {
         "nom": "Llagostins",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Altres",
         "quantitat": 0
       },
