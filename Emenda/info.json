@@ -1888,7 +1888,7 @@
       },
       {
         "nom": "Salmó",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1900,7 +1900,7 @@
       },
       {
         "nom": "Gambes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       }
