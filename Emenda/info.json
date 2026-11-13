@@ -96,9 +96,9 @@
       },
       {
         "nom": "Cafè descafeïnat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Begudes",
-        "quantitat": 2
+        "quantitat": 0
       },
       {
         "nom": "Infusió farigola",
