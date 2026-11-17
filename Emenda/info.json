@@ -132,7 +132,7 @@
       },
       {
         "nom": "Llevat Royal",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Bàsics",
         "quantitat": 0
       },
@@ -336,7 +336,7 @@
       },
       {
         "nom": "Kleenex capsa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Higiene",
         "quantitat": 0
       },
@@ -462,7 +462,7 @@
       },
       {
         "nom": "Pistatxo natural",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Fruits Secs",
         "quantitat": 0
       },
