@@ -750,7 +750,7 @@
       },
       {
         "nom": "Tonyina al natural",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
