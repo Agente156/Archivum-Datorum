@@ -1425,6 +1425,12 @@
         "marcat": false,
         "categoria": "Primer plats",
         "quantitat": 0
+      },
+      {
+        "nom": "Caldo pollastre",
+        "marcat": false,
+        "categoria": "Primer plats",
+        "quantitat": 0
       }
     ]
   },
