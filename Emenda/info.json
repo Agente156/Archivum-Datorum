@@ -1443,6 +1443,12 @@
         "marcat": false,
         "categoria": "Primer plats",
         "quantitat": 0
+      },
+      {
+        "nom": "Arros",
+        "marcat": false,
+        "categoria": "Primer plats",
+        "quantitat": 0
       }
     ]
   },
