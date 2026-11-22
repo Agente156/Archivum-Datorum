@@ -1431,6 +1431,12 @@
         "marcat": false,
         "categoria": "Primer plats",
         "quantitat": 0
+      },
+      {
+        "nom": "Fideus",
+        "marcat": false,
+        "categoria": "Primer plats",
+        "quantitat": 0
       }
     ]
   },
