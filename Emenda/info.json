@@ -1437,6 +1437,12 @@
         "marcat": false,
         "categoria": "Peix",
         "quantitat": 0
+      },
+      {
+        "nom": "Costella de porc",
+        "marcat": false,
+        "categoria": "Carn",
+        "quantitat": 0
       }
     ]
   },
