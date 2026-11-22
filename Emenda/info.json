@@ -1437,6 +1437,12 @@
         "marcat": false,
         "categoria": "Peix",
         "quantitat": 0
+      },
+      {
+        "nom": "Sardines en llauna",
+        "marcat": false,
+        "categoria": "Peix",
+        "quantitat": 0
       }
     ]
   },
