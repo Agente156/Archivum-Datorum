@@ -1437,6 +1437,12 @@
         "marcat": false,
         "categoria": "Primer plats",
         "quantitat": 0
+      },
+      {
+        "nom": "Yatekomo pollastre",
+        "marcat": false,
+        "categoria": "Primer plats",
+        "quantitat": 0
       }
     ]
   },
