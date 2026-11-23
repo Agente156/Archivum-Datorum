@@ -1368,7 +1368,7 @@
       },
       {
         "nom": "Pasta per sopa",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Primer plats",
         "quantitat": 0
       },
