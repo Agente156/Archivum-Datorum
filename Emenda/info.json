@@ -1374,7 +1374,7 @@
       },
       {
         "nom": "Caldo peix",
-        "marcat": false,
+        "marcat": true,
         "categoria": "Primer plats",
         "quantitat": 0
       },
