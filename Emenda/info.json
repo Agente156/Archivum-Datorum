@@ -1648,7 +1648,7 @@
     "productes": [
       {
         "nom": "Oral B menta suave",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
@@ -1666,7 +1666,7 @@
       },
       {
         "nom": "Xampú herbal anticaspa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
