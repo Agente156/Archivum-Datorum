@@ -1068,7 +1068,7 @@
       },
       {
         "nom": "Fuet can duran",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn",
         "quantitat": 0
       },
@@ -1362,19 +1362,19 @@
       },
       {
         "nom": "Sal",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Altres",
         "quantitat": 0
       },
       {
         "nom": "Pasta per sopa",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Primer plats",
         "quantitat": 0
       },
       {
         "nom": "Caldo peix",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Primer plats",
         "quantitat": 0
       },
