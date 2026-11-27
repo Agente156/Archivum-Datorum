@@ -246,7 +246,7 @@
       },
       {
         "nom": "Pernil salat",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Carn i Peix",
         "quantitat": 0
       },
@@ -408,7 +408,7 @@
       },
       {
         "nom": "Lleixiu estrella pino",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Neteja",
         "quantitat": 0
       },
