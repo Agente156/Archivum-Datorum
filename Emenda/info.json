@@ -162,7 +162,7 @@
       },
       {
         "nom": "Arròs",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Pasta i Arròs",
         "quantitat": 0
       },
@@ -198,13 +198,13 @@
       },
       {
         "nom": "Llet arròs i avellanes",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
       {
         "nom": "Iogurts naturals",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
@@ -276,13 +276,13 @@
       },
       {
         "nom": "Iceberg 🥗",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
       {
         "nom": "Enciam romana",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Hortalisses",
         "quantitat": 0
       },
@@ -666,7 +666,7 @@
       },
       {
         "nom": "Iogurt Alpro coco",
-        "marcat": true,
+        "marcat": false,
         "categoria": "Làctics",
         "quantitat": 0
       },
